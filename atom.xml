@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Slack Ideas</title>
+  
+  <subtitle>Take a sniff, touch deep</subtitle>
+  <link href="https://www.slackideas.com/atom.xml" rel="self"/>
+  
+  <link href="https://www.slackideas.com/"/>
+  <updated>2022-04-16T11:47:46.722Z</updated>
+  <id>https://www.slackideas.com/</id>
+  
+  <author>
+    <name>caiski</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Li Assisted Driving in Long Distance Road Trip</title>
+    <link href="https://www.slackideas.com/2021/10/10/Li-Assisted-Driving-in-Long-Distance-Road-Trip/"/>
+    <id>https://www.slackideas.com/2021/10/10/Li-Assisted-Driving-in-Long-Distance-Road-Trip/</id>
+    <published>2021-10-10T03:01:05.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<p>今年八月，和家里领导商量之后，购入了一台“理想One”，也就是国产电动汽车里著名的“电动三傻”中“理想汽车”的目前唯一一款产品。</p><p>在刚刚过去的国庆假期中，我们驾驶“理想One”从杭州往返一次老家，行驶了总计1600公里，其中辅助驾驶参与近1100公里，参与率近70%，算是深入全方位体验了一次头部国产电动车厂商的长途自驾辅助驾驶。</p><a id="more"></a><p>先说说为什么选择“理想One”。这个问题也可以这么问，“为什么选择增程式混动新能源汽车”。</p><p>我曾比较过几种混动技术的差别，也在社交场合多次公开支持增程式混动技术，原因主要是：</p><p>1、用户更加倾向于可控的能源补充方式，“可油可电”是“焦虑终结者”。<br>2、纯电里程满足城市通行场景之后，更多的纯电里程是多余的。这一点类似智能手机发布前的超长待机功能，有用，但不是通用场景，不具备广泛铺开的条件。</p><p>而增程式混动是“理想汽车”首先具备的差异化竞争力。</p><p>此外，偶发的用电紧张，高速上抢夺充电桩、新能源汽车销量排名等新闻，只能更加验证我的观点：未来十年是增程混动应该会是主流。</p><p>回到辅助驾驶的话题上，国际自动机工程师学会SAE曾定义过自动驾驶的分级标准（比美国NHTSA的标准更严谨更通用），内容如下：</p><p><img src="/2021/10/10/Li-Assisted-Driving-in-Long-Distance-Road-Trip/640.webp" alt="SAE"></p><p>目前市面上的新能源车型，基本能做到L2，比如高速公路、隧道、高架桥上能使用车道保持+自适应巡航+主动刹车。</p><p>那么不少车商宣传的L2.5是什么呢？它表达的是比L2更多的自动驾驶功能点，类似的还有宣传L2.75的。除了车道保持+自适应巡航+主动刹车，还提供了盲区辅助、并线辅助、偏离预警等等。</p><p>还有部分厂商宣传达到了L4级别，个人建议不要听信。因为车商放出预设道路的测试视频里，对应到分级标准顶多是L3，而L3的前提便是只在预设道路中有效，还很难在我们日常的场景中应用。L4就更加别提了，T家的FSD从放出来的视频看够优秀吧？目前都还是Beta测试阶段，而在国内，FSD更是无法使用的。</p><p>进入正题，说说长途自驾使用辅助驾驶的体验。这里只描述个人体验，毕竟不是标准化实验，对外的参考价值不大。</p><p>在高速路这样路况好、标线清晰、路上车辆不多的场景下，通过释放驾驶员的双脚、双手及部分感官，可以大幅度降低驾驶员的疲劳感。但是，这仅仅在路上车辆较少、且其他人开车都比较规矩的情况下才能做到，所以辅助驾驶的用户手册里会要求驾驶员的手不能长时间离开方向盘，以便于及时处理突发情况。</p><p>亲测在高速路上一些施工区域和划线混乱区域，辅助驾驶100%会出错。</p><p>另外高速上常见的穿插式超车场景，辅助驾驶中的车子会因为感知前方加塞而频繁加速、减速，也不适合开启辅助驾驶。</p><p>一场长途自驾，要顾及的除了自己的疲劳感，还有乘坐人员的感受和安全，以及不要给路上其他车添堵。如果说驾驶员在其中付出精力是100%，那么辅助驾驶带来的是5%的精力节约吧。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;今年八月，和家里领导商量之后，购入了一台“理想One”，也就是国产电动汽车里著名的“电动三傻”中“理想汽车”的目前唯一一款产品。&lt;/p&gt;
+&lt;p&gt;在刚刚过去的国庆假期中，我们驾驶“理想One”从杭州往返一次老家，行驶了总计1600公里，其中辅助驾驶参与近1100公里，参与率近70%，算是深入全方位体验了一次头部国产电动车厂商的长途自驾辅助驾驶。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Other" scheme="https://www.slackideas.com/categories/Other/"/>
+    
+    
+    <category term="thoughts" scheme="https://www.slackideas.com/tags/thoughts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Li Assisted Driving in Long Distance Road Trip</title>
+    <link href="https://www.slackideas.com/2021/10/10/Li-assisted-driving-in-long-distance-road-trip/"/>
+    <id>https://www.slackideas.com/2021/10/10/Li-assisted-driving-in-long-distance-road-trip/</id>
+    <published>2021-10-10T03:01:05.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<p>今年八月，和家里领导商量之后，购入了一台“理想One”，也就是国产电动汽车里著名的“电动三傻”中“理想汽车”的目前唯一一款产品。</p><p>在刚刚过去的国庆假期中，我们驾驶“理想One”从杭州往返一次老家，行驶了总计1600公里，其中辅助驾驶参与近1100公里，参与率近70%，算是深入全方位体验了一次头部国产电动车厂商的长途自驾辅助驾驶。</p><a id="more"></a><p>先说说为什么选择“理想One”。这个问题也可以这么问，“为什么选择增程式混动新能源汽车”。</p><p>我曾比较过几种混动技术的差别，也在社交场合多次公开支持增程式混动技术，原因主要是：</p><p>1、用户更加倾向于可控的能源补充方式，“可油可电”是“焦虑终结者”。<br>2、纯电里程满足城市通行场景之后，更多的纯电里程是多余的。这一点类似智能手机发布前的超长待机功能，有用，但不是通用场景，不具备广泛铺开的条件。</p><p>而增程式混动是“理想汽车”首先具备的差异化竞争力。</p><p>此外，偶发的用电紧张，高速上抢夺充电桩、新能源汽车销量排名等新闻，只能更加验证我的观点：未来十年是增程混动应该会是主流。</p><p>回到辅助驾驶的话题上，国际自动机工程师学会SAE曾定义过自动驾驶的分级标准（比美国NHTSA的标准更严谨更通用），内容如下：</p><p><img src="/2021/10/10/Li-assisted-driving-in-long-distance-road-trip/640.webp" alt="SAE"></p><p>目前市面上的新能源车型，基本能做到L2，比如高速公路、隧道、高架桥上能使用车道保持+自适应巡航+主动刹车。</p><p>那么不少车商宣传的L2.5是什么呢？它表达的是比L2更多的自动驾驶功能点，类似的还有宣传L2.75的。除了车道保持+自适应巡航+主动刹车，还提供了盲区辅助、并线辅助、偏离预警等等。</p><p>还有部分厂商宣传达到了L4级别，个人建议不要听信。因为车商放出预设道路的测试视频里，对应到分级标准顶多是L3，而L3的前提便是只在预设道路中有效，还很难在我们日常的场景中应用。L4就更加别提了，T家的FSD从放出来的视频看够优秀吧？目前都还是Beta测试阶段，而在国内，FSD更是无法使用的。</p><p>进入正题，说说长途自驾使用辅助驾驶的体验。这里只描述个人体验，毕竟不是标准化实验，对外的参考价值不大。</p><p>在高速路这样路况好、标线清晰、路上车辆不多的场景下，通过释放驾驶员的双脚、双手及部分感官，可以大幅度降低驾驶员的疲劳感。但是，这仅仅在路上车辆较少、且其他人开车都比较规矩的情况下才能做到，所以辅助驾驶的用户手册里会要求驾驶员的手不能长时间离开方向盘，以便于及时处理突发情况。</p><p>亲测在高速路上一些施工区域和划线混乱区域，辅助驾驶100%会出错。</p><p>另外高速上常见的穿插式超车场景，辅助驾驶中的车子会因为感知前方加塞而频繁加速、减速，也不适合开启辅助驾驶。</p><p>一场长途自驾，要顾及的除了自己的疲劳感，还有乘坐人员的感受和安全，以及不要给路上其他车添堵。如果说驾驶员在其中付出精力是100%，那么辅助驾驶带来的是5%的精力节约吧。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;今年八月，和家里领导商量之后，购入了一台“理想One”，也就是国产电动汽车里著名的“电动三傻”中“理想汽车”的目前唯一一款产品。&lt;/p&gt;
+&lt;p&gt;在刚刚过去的国庆假期中，我们驾驶“理想One”从杭州往返一次老家，行驶了总计1600公里，其中辅助驾驶参与近1100公里，参与率近70%，算是深入全方位体验了一次头部国产电动车厂商的长途自驾辅助驾驶。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Other" scheme="https://www.slackideas.com/categories/Other/"/>
+    
+    
+    <category term="thoughts" scheme="https://www.slackideas.com/tags/thoughts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Data Type Mappings Between Golang And PostgreSQL</title>
+    <link href="https://www.slackideas.com/2021/08/22/Data-Type-Mappings-Between-Golang-And-PostgreSQL/"/>
+    <id>https://www.slackideas.com/2021/08/22/Data-Type-Mappings-Between-Golang-And-PostgreSQL/</id>
+    <published>2021-08-22T07:16:56.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<p>PostgreSQL数据库中的基本数据类型一共是41种，实际应用中，数据库使用类型、数据库实现类型、Go语言承载类型，如何做一一对应，这下子就清楚了。</p><a id="more"></a><table><thead><tr><th>数据库基本类型</th><th>数据库实现类型</th><th>Go语言承载类型</th></tr></thead><tbody><tr><td>bigint</td><td>INT8</td><td>int64</td></tr><tr><td>bigserial</td><td>INT8</td><td>int64</td></tr><tr><td>bit(4)</td><td>BIT</td><td>interface{}</td></tr><tr><td>bit varying(4)</td><td>VARBIT</td><td>interface{}</td></tr><tr><td>boolean</td><td>BOOL</td><td>bool</td></tr><tr><td>box</td><td>BOX</td><td>interface{}</td></tr><tr><td>bytea</td><td>BYTEA</td><td>[]uint8</td></tr><tr><td>character(4)</td><td>BPCHAR</td><td>interface{}</td></tr><tr><td>character varying(4)</td><td>VARCHAR</td><td>interface{}</td></tr><tr><td>cidr</td><td>CIDR</td><td>interface{}</td></tr><tr><td>circle</td><td>CIRCLE</td><td>interface{}</td></tr><tr><td>date</td><td>DATE</td><td>time.Time</td></tr><tr><td>double precision</td><td>FLOAT8</td><td>interface{}</td></tr><tr><td>inet</td><td>INET</td><td>interface{}</td></tr><tr><td>integer</td><td>INT4</td><td>int32</td></tr><tr><td>interval</td><td>INTERVAL</td><td>interface{}</td></tr><tr><td>json</td><td>JSON</td><td>interface{}</td></tr><tr><td>jsonb</td><td>JSONB</td><td>interface{}</td></tr><tr><td>line</td><td>LINE</td><td>interface{}</td></tr><tr><td>lseg</td><td>LSEG</td><td>interface{}</td></tr><tr><td>macaddr</td><td>MACADDR</td><td>interface{}</td></tr><tr><td>money</td><td>MONEY</td><td>interface{}</td></tr><tr><td>numeric</td><td>NUMERIC</td><td>interface{}</td></tr><tr><td>path</td><td>PATH</td><td>interface{}</td></tr><tr><td>pg_lsn</td><td>PG_LSN</td><td>interface{}</td></tr><tr><td>point</td><td>POINT</td><td>interface{}</td></tr><tr><td>polygon</td><td>POLYGON</td><td>interface{}</td></tr><tr><td>real</td><td>FLOAT4</td><td>interface{}</td></tr><tr><td>smallint</td><td>INT2</td><td>int16</td></tr><tr><td>smallserial</td><td>INT2</td><td>int16</td></tr><tr><td>serial</td><td>INT4</td><td>int32</td></tr><tr><td>text</td><td>TEXT</td><td>string</td></tr><tr><td>time without time zone</td><td>TIME</td><td>time.Time</td></tr><tr><td>time with time zone</td><td>TIMETZ</td><td>time.Time</td></tr><tr><td>timestamp without time zone</td><td>TIMESTAMP</td><td>time.Time</td></tr><tr><td>timestamp with time zone</td><td>TIMESTAMPTZ</td><td>time.Time</td></tr><tr><td>tsquery</td><td>TSQUERY</td><td>interface{}</td></tr><tr><td>tsvector</td><td>TSVECTOR</td><td>interface{}</td></tr><tr><td>txid_snapshot</td><td>TXID_SNAPSHOT</td><td>interface{}</td></tr><tr><td>uuid</td><td>UUID</td><td>interface{}</td></tr><tr><td>xml</td><td>XML</td><td>interface{}</td></tr></tbody></table>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;PostgreSQL数据库中的基本数据类型一共是41种，实际应用中，数据库使用类型、数据库实现类型、Go语言承载类型，如何做一一对应，这下子就清楚了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="IT" scheme="https://www.slackideas.com/categories/IT/"/>
+    
+    
+    <category term="golang" scheme="https://www.slackideas.com/tags/golang/"/>
+    
+    <category term="postgresql" scheme="https://www.slackideas.com/tags/postgresql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Glance Through the Window of Office (Two Pictures)</title>
+    <link href="https://www.slackideas.com/2021/07/18/A-Glance-Through-the-Window-of-Office-Two-Pictures/"/>
+    <id>https://www.slackideas.com/2021/07/18/A-Glance-Through-the-Window-of-Office-Two-Pictures/</id>
+    <published>2021-07-18T05:16:42.000Z</published>
+    <updated>2022-04-16T11:47:46.714Z</updated>
+    
+    <content type="html"><![CDATA[<p>两张旧照，从公司窗外，看​湿地和城市天际线。</p><a id="more"></a><p><img src="/2021/07/18/A-Glance-Through-the-Window-of-Office-Two-Pictures/A.png"></p><p><img src="/2021/07/18/A-Glance-Through-the-Window-of-Office-Two-Pictures/B.png"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;两张旧照，从公司窗外，看​湿地和城市天际线。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Other" scheme="https://www.slackideas.com/categories/Other/"/>
+    
+    
+    <category term="photography" scheme="https://www.slackideas.com/tags/photography/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Alfred New User Notes - Part I</title>
+    <link href="https://www.slackideas.com/2021/07/17/Alfred-New-User-Notes-Part-I/"/>
+    <id>https://www.slackideas.com/2021/07/17/Alfred-New-User-Notes-Part-I/</id>
+    <published>2021-07-17T12:14:17.000Z</published>
+    <updated>2022-04-16T11:47:46.718Z</updated>
+    
+    <content type="html"><![CDATA[<p>大概是5年前，开始使用Mac电脑作为主力工具的。5年间由于换工作的原因，工作电脑从Mac换到Windows，又换回Mac。但个人电脑则一直都是Mac。</p><p>年初换了新工作，工作内容全部用Mac来承载了，想起来这么多年竟然没碰过Mac上的“神器”软件Alfred，怎么着都得来试试，好好提高下效率和幸福感。</p><a id="more"></a><p>既然要把工作负载都交给它了，必须要相信它，例如放开访问通讯录和1Password的权限等等。说实在的，放开1Password权限起初还是有些不太敢，毕竟这软件有个后门什么的，岂不是全部家当给丢出去了。但转念，还是这么做了，原因有三：Alfred是成名多年的优秀软件，如果有后门肯定早曝光了；坚决使用正版软件，免受盗版软件荼毒，毕竟全部家当都交了，不能冒这个险；实在不行，采用最后手段，禁Alfred的网络权限。</p><p>下面就说下我（作为一名新用户）的购买、配置和使用过程吧。</p><p>首先，Alfred只能通过官网下载，无法使用AppStore安装。原因在官网上有讲到，<a href="https://www.alfredapp.com/help/troubleshooting/mac-app-store/">https://www.alfredapp.com/help/troubleshooting/mac-app-store/</a> 。所以先行下载吧。<a href="https://www.alfredapp.com/">https://www.alfredapp.com/</a></p><p>购买流程也相当简单，进入购买页面<a href="https://www.alfredapp.com/shop/">https://www.alfredapp.com/shop/</a> ，选择套餐版本（有29英镑和49英镑两种License，区别是前者仅包含当前版本4，后者包含终生升级），我选了终生升级版。接着输入名字、邮箱，点击购买。进入付款页面后，有两种付费方式，信用卡和Paypal，我用的是信用卡（Visa）支付。付款后，几分钟内，收到了收据和License邮件。打开软件，点击左侧边栏中的PowerPack，输入邮箱和上述收到License，便激活了PowerPack。对了，使用Alfred，一定要购买PowerPack，不然。。。就等于不用了。</p><p>接下来，介绍下我平时使用最多的两个功能，Clipboard History和System Monitor Workflow。</p><p>先说Clipboard History，功能设置入口位于左侧边栏Feature =&gt; Clipboard History。功能使用上，顾名思义，便是能够通过它访问剪贴板历史。对于我们这种工程人员，经常复制（⌘+C）的场景，会用到历史上复制过的内容，这个工具能够很好地弥补。遍历剪贴板历史和使用旧的复制内容不再麻烦，体验很好。它还有个颇具特色的能力，便是自动将连续复制（⌘+C）的内容合并，例如用户希望复制一段话中的两个关键词，他能够通过迅速复制关键词1和关键词2，而剪贴板的内容将会是关键词1+关键词2。通过设置，还可以在合并时自动插入换行符，甚至，还能够在合并时发出声音。发出声音这个功能个人使用后觉得无法适应，偶发的Pyur-pyur声经常被我当作是什么地方的异响，相当地interrupting。</p><p>然后是System Monitor工作流。这是个第三方工作流，主要功能可以看这里 <a href="https://github.com/singhprd/system-monitor-alfred-workflow/blob/master/README.md">https://github.com/singhprd/system-monitor-alfred-workflow/blob/master/README.md</a> ，概括来讲，便是能够通过Alfred的快捷命令查看系统性能，如内存、CPU、IO使用率等。安装依然简单，通过刚刚的链接进去可下载到这个工作流的.workflow文件，点击打开便能直接被导入Alfred了。</p><p>接下来的事情，就比较Tricky了。它并不是安装即可用的，由于它只固定地使用某个旧版本的ruby程序，而在新的Mac系统中ruby是不断更新的，由此造成了某些目录不匹配的问题。如图所示：<br><img src="/2021/07/17/Alfred-New-User-Notes-Part-I/System_Monitor_Workflow.png" alt="System Monitor Workflow Debug"></p><p>经过一番搜索，在这里 <a href="https://github.com/zhaocai/alfred2-sourcetree-workflow/issues/7#issuecomment-633050353">https://github.com/zhaocai/alfred2-sourcetree-workflow/issues/7#issuecomment-633050353</a> 找到了答案。报错信息中提到的2.6.0目录如果不存在，那么我们就通过软链接建一个目录出来。之后便畅通无阻了。</p><p>总结：这是我目前使用Alfred一周以来，用得最畅快的两个功能了。难怪说它是“神器”，后续若发现更多技巧，我也会及时拿出来跟大家分享。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;大概是5年前，开始使用Mac电脑作为主力工具的。5年间由于换工作的原因，工作电脑从Mac换到Windows，又换回Mac。但个人电脑则一直都是Mac。&lt;/p&gt;
+&lt;p&gt;年初换了新工作，工作内容全部用Mac来承载了，想起来这么多年竟然没碰过Mac上的“神器”软件Alfred，怎么着都得来试试，好好提高下效率和幸福感。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Other" scheme="https://www.slackideas.com/categories/Other/"/>
+    
+    
+    <category term="mac" scheme="https://www.slackideas.com/tags/mac/"/>
+    
+    <category term="alfred" scheme="https://www.slackideas.com/tags/alfred/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Grpc Tutorial Step By Step</title>
+    <link href="https://www.slackideas.com/2021/07/03/Grpc-Tutorial-Step-By-Step/"/>
+    <id>https://www.slackideas.com/2021/07/03/Grpc-Tutorial-Step-By-Step/</id>
+    <published>2021-07-03T15:09:23.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="gRpc入门步骤详解"><a href="#gRpc入门步骤详解" class="headerlink" title="gRpc入门步骤详解"></a>gRpc入门步骤详解</h1><h2 id="1-安装Go-1-16、Python-3"><a href="#1-安装Go-1-16、Python-3" class="headerlink" title="1. 安装Go 1.16、Python 3"></a>1. 安装Go 1.16、Python 3</h2><pre><code>brew install go@1.16brew install python3</code></pre><h2 id="2-环境变量和其他配置"><a href="#2-环境变量和其他配置" class="headerlink" title="2. 环境变量和其他配置"></a>2. 环境变量和其他配置</h2><pre><code class="shell"># pip mirrormkdir -p ~/.pipcat &gt;~/.pip/pip.conf &lt;&lt;EOF[global]index-url = https://mirrors.aliyun.com/pypi/simple/[install]trusted-host=mirrors.aliyun.comEOF# go pathexport GOPATH=/Users/apple/goexport PATH=$PATH:$GOPATH/bin</code></pre><h2 id="3-安装依赖库"><a href="#3-安装依赖库" class="headerlink" title="3. 安装依赖库"></a>3. 安装依赖库</h2><pre><code># go grpc gengo get -u github.com/golang/protobuf/protoc-gen-go# python grpc genpip3 install grpciopip3 install protobufpip3 install grpcio_tools</code></pre><h2 id="4-准备工程目录结构"><a href="#4-准备工程目录结构" class="headerlink" title="4. 准备工程目录结构"></a>4. 准备工程目录结构</h2><pre><code># prepare project directorymkdir -p grpc-democd grpc-demogo mod init grpc-demo# prepare proto-buf directorymkdir -p pb# prepare server directorymkdir -p server#prepare client directorymkdir -p client#prepare service directorymkdir -p service</code></pre><h2 id="5-定义-proto协议文件及生成Go代码"><a href="#5-定义-proto协议文件及生成Go代码" class="headerlink" title="5. 定义.proto协议文件及生成Go代码"></a>5. 定义.proto协议文件及生成Go代码</h2><pre><code class="proto3"># file pb/hello_grpc.protosyntax = &quot;proto3&quot;;package service;option go_package = &quot;.;service&quot;;service Greeter &#123;  rpc SayHello (HelloRequest) returns (HelloReply) &#123;&#125;&#125;message HelloRequest &#123;  string name = 1;&#125;message HelloReply &#123;  string message = 1;&#125;</code></pre><p>生成Go版本的协议代码</p><pre><code class="shell">protoc -I pb/ pb/hello_grpc.proto --go_out=plugins=grpc:service</code></pre><p><code>-I</code> 后面指定proto文件存放目录，和proto文件<br><code>--go_out=plugins=grpc:</code>后面指定生成go代码存放的目录<br>检查文件<code>service/hello_grpc.pb.go</code>是否成功生成</p><h2 id="6-编写Go-Server代码及运行Server"><a href="#6-编写Go-Server代码及运行Server" class="headerlink" title="6. 编写Go Server代码及运行Server"></a>6. 编写Go Server代码及运行Server</h2><pre><code class="go"># file server/server.gopackage mainimport (    &quot;context&quot;    &quot;fmt&quot;    &quot;hello_grpc/service&quot;    &quot;net&quot;    &quot;google.golang.org/grpc&quot;    &quot;google.golang.org/grpc/reflection&quot;)type server struct&#123;&#125;func (s *server) SayHello(ctx context.Context, in *service.HelloRequest) (*service.HelloReply, error) &#123;    return &amp;service.HelloReply&#123;Message: &quot;hello &quot; + in.Name&#125;, nil&#125;type GreeterServer interface &#123;    SayHello(context.Context, *service.HelloRequest) (*service.HelloReply, error)&#125;func main() &#123;    // listen local port    lis, err := net.Listen(&quot;tcp&quot;, &quot;:5000&quot;)    if err != nil &#123;        fmt.Printf(&quot;fail to listen: %s&quot;, err)        return    &#125;    // create grpc server    s := grpc.NewServer()    // register function    service.RegisterGreeterServer(s, &amp;server&#123;&#125;)    reflection.Register(s)    err = s.Serve(lis)    if err != nil &#123;        fmt.Printf(&quot;fail to start server: %s&quot;, err)        return    &#125;&#125;</code></pre><p>运行Server，若发现报错则于项目根目录先执行<code>go mod tidy</code>准备好依赖。</p><pre><code>go run server/server.go</code></pre><h2 id="7-编写Go-Client代码及测试Client"><a href="#7-编写Go-Client代码及测试Client" class="headerlink" title="7. 编写Go Client代码及测试Client"></a>7. 编写Go Client代码及测试Client</h2><pre><code class="go"># file client/client.gopackage mainimport (    &quot;context&quot;    &quot;fmt&quot;    &quot;hello_grpc/service&quot;    &quot;google.golang.org/grpc&quot;)func main() &#123;    // connect server    conn, err := grpc.Dial(&quot;:5000&quot;, grpc.WithInsecure())    if err != nil &#123;        fmt.Printf(&quot;fail to connect server: %s&quot;, err)        return    &#125;    defer conn.Close()    // create new client    c := service.NewGreeterClient(conn)    // call rpc function    r, err := c.SayHello(context.Background(), &amp;service.HelloRequest&#123;Name: &quot;grpc&quot;&#125;)    if err != nil &#123;        fmt.Printf(&quot;fail to call rpc function: %s&quot;, err)        return    &#125;    fmt.Printf(&quot;rpc call success: %s&quot;, r.Message)&#125;</code></pre><p>运行Client测试</p><pre><code>% go run client/client.go rpc call success: hello grpc</code></pre><h2 id="8-编写Python-Client并测试Client"><a href="#8-编写Python-Client并测试Client" class="headerlink" title="8. 编写Python Client并测试Client"></a>8. 编写Python Client并测试Client</h2><p>第一步，生成Python语言协议文件<code>hello_grpc_pb2.py</code>和<code>hello_grpc_pb2_grpc.py</code></p><pre><code class="shell">mkdir -p pythonpython3 -m grpc_tools.protoc -I pb/ --python_out=python/ --grpc_python_out=python/ pb/hello_grpc.proto</code></pre><p>第二步，编写Python Client</p><pre><code class="python"># file python/client.pyimport loggingimport grpcimport hello_grpc_pb2import hello_grpc_pb2_grpcdef run():    with grpc.insecure_channel(&#39;localhost:5000&#39;) as channel:        stub = hello_grpc_pb2_grpc.GreeterStub(channel)        response = stub.SayHello(hello_grpc_pb2.HelloRequest(name=&#39;grpc&#39;))    print(&quot;call success: &#123;&#125;!&quot;.format(response.message))if __name__ == &#39;__main__&#39;:    logging.basicConfig()    run()</code></pre><p>第三步，运行Python Client</p><pre><code>% python3 python/client.pycall success: hello grpc!</code></pre><h1 id="工程打包下载"><a href="#工程打包下载" class="headerlink" title="工程打包下载"></a>工程打包下载</h1><p><a href="./grpc-demo.tgz">本站地址</a></p><EOF></EOF>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;gRpc入门步骤详解&quot;&gt;&lt;a href=&quot;#gRpc入门步骤详解&quot; class=&quot;headerlink&quot; title=&quot;gRpc入门步骤详解&quot;&gt;&lt;/a&gt;gRpc入门步骤详解&lt;/h1&gt;&lt;h2 id=&quot;1-安装Go-1-16、Python-3&quot;&gt;&lt;a href=&quot;#1</summary>
+      
+    
+    
+    
+    <category term="IT" scheme="https://www.slackideas.com/categories/IT/"/>
+    
+    
+    <category term="golang" scheme="https://www.slackideas.com/tags/golang/"/>
+    
+    <category term="rpc" scheme="https://www.slackideas.com/tags/rpc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Grpc Tutorial Step By Step</title>
+    <link href="https://www.slackideas.com/2021/07/03/grpc-tutorial-step-by-step/"/>
+    <id>https://www.slackideas.com/2021/07/03/grpc-tutorial-step-by-step/</id>
+    <published>2021-07-03T15:09:23.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="gRpc入门步骤详解"><a href="#gRpc入门步骤详解" class="headerlink" title="gRpc入门步骤详解"></a>gRpc入门步骤详解</h1><h2 id="1-安装Go-1-16、Python-3"><a href="#1-安装Go-1-16、Python-3" class="headerlink" title="1. 安装Go 1.16、Python 3"></a>1. 安装Go 1.16、Python 3</h2><pre><code>brew install go@1.16brew install python3</code></pre><h2 id="2-环境变量和其他配置"><a href="#2-环境变量和其他配置" class="headerlink" title="2. 环境变量和其他配置"></a>2. 环境变量和其他配置</h2><pre><code class="shell"># pip mirrormkdir -p ~/.pipcat &gt;~/.pip/pip.conf &lt;&lt;EOF[global]index-url = https://mirrors.aliyun.com/pypi/simple/[install]trusted-host=mirrors.aliyun.comEOF# go pathexport GOPATH=/Users/apple/goexport PATH=$PATH:$GOPATH/bin</code></pre><h2 id="3-安装依赖库"><a href="#3-安装依赖库" class="headerlink" title="3. 安装依赖库"></a>3. 安装依赖库</h2><pre><code># go grpc gengo get -u github.com/golang/protobuf/protoc-gen-go# python grpc genpip3 install grpciopip3 install protobufpip3 install grpcio_tools</code></pre><h2 id="4-准备工程目录结构"><a href="#4-准备工程目录结构" class="headerlink" title="4. 准备工程目录结构"></a>4. 准备工程目录结构</h2><pre><code># prepare project directorymkdir -p grpc-democd grpc-demogo mod init grpc-demo# prepare proto-buf directorymkdir -p pb# prepare server directorymkdir -p server#prepare client directorymkdir -p client#prepare service directorymkdir -p service</code></pre><h2 id="5-定义-proto协议文件及生成Go代码"><a href="#5-定义-proto协议文件及生成Go代码" class="headerlink" title="5. 定义.proto协议文件及生成Go代码"></a>5. 定义.proto协议文件及生成Go代码</h2><pre><code class="proto3"># file pb/hello_grpc.protosyntax = &quot;proto3&quot;;package service;option go_package = &quot;.;service&quot;;service Greeter &#123;  rpc SayHello (HelloRequest) returns (HelloReply) &#123;&#125;&#125;message HelloRequest &#123;  string name = 1;&#125;message HelloReply &#123;  string message = 1;&#125;</code></pre><p>生成Go版本的协议代码</p><pre><code class="shell">protoc -I pb/ pb/hello_grpc.proto --go_out=plugins=grpc:service</code></pre><p><code>-I</code> 后面指定proto文件存放目录，和proto文件<br><code>--go_out=plugins=grpc:</code>后面指定生成go代码存放的目录<br>检查文件<code>service/hello_grpc.pb.go</code>是否成功生成</p><h2 id="6-编写Go-Server代码及运行Server"><a href="#6-编写Go-Server代码及运行Server" class="headerlink" title="6. 编写Go Server代码及运行Server"></a>6. 编写Go Server代码及运行Server</h2><pre><code class="go"># file server/server.gopackage mainimport (    &quot;context&quot;    &quot;fmt&quot;    &quot;hello_grpc/service&quot;    &quot;net&quot;    &quot;google.golang.org/grpc&quot;    &quot;google.golang.org/grpc/reflection&quot;)type server struct&#123;&#125;func (s *server) SayHello(ctx context.Context, in *service.HelloRequest) (*service.HelloReply, error) &#123;    return &amp;service.HelloReply&#123;Message: &quot;hello &quot; + in.Name&#125;, nil&#125;type GreeterServer interface &#123;    SayHello(context.Context, *service.HelloRequest) (*service.HelloReply, error)&#125;func main() &#123;    // listen local port    lis, err := net.Listen(&quot;tcp&quot;, &quot;:5000&quot;)    if err != nil &#123;        fmt.Printf(&quot;fail to listen: %s&quot;, err)        return    &#125;    // create grpc server    s := grpc.NewServer()    // register function    service.RegisterGreeterServer(s, &amp;server&#123;&#125;)    reflection.Register(s)    err = s.Serve(lis)    if err != nil &#123;        fmt.Printf(&quot;fail to start server: %s&quot;, err)        return    &#125;&#125;</code></pre><p>运行Server，若发现报错则于项目根目录先执行<code>go mod tidy</code>准备好依赖。</p><pre><code>go run server/server.go</code></pre><h2 id="7-编写Go-Client代码及测试Client"><a href="#7-编写Go-Client代码及测试Client" class="headerlink" title="7. 编写Go Client代码及测试Client"></a>7. 编写Go Client代码及测试Client</h2><pre><code class="go"># file client/client.gopackage mainimport (    &quot;context&quot;    &quot;fmt&quot;    &quot;hello_grpc/service&quot;    &quot;google.golang.org/grpc&quot;)func main() &#123;    // connect server    conn, err := grpc.Dial(&quot;:5000&quot;, grpc.WithInsecure())    if err != nil &#123;        fmt.Printf(&quot;fail to connect server: %s&quot;, err)        return    &#125;    defer conn.Close()    // create new client    c := service.NewGreeterClient(conn)    // call rpc function    r, err := c.SayHello(context.Background(), &amp;service.HelloRequest&#123;Name: &quot;grpc&quot;&#125;)    if err != nil &#123;        fmt.Printf(&quot;fail to call rpc function: %s&quot;, err)        return    &#125;    fmt.Printf(&quot;rpc call success: %s&quot;, r.Message)&#125;</code></pre><p>运行Client测试</p><pre><code>% go run client/client.go rpc call success: hello grpc</code></pre><h2 id="8-编写Python-Client并测试Client"><a href="#8-编写Python-Client并测试Client" class="headerlink" title="8. 编写Python Client并测试Client"></a>8. 编写Python Client并测试Client</h2><p>第一步，生成Python语言协议文件<code>hello_grpc_pb2.py</code>和<code>hello_grpc_pb2_grpc.py</code></p><pre><code class="shell">mkdir -p pythonpython3 -m grpc_tools.protoc -I pb/ --python_out=python/ --grpc_python_out=python/ pb/hello_grpc.proto</code></pre><p>第二步，编写Python Client</p><pre><code class="python"># file python/client.pyimport loggingimport grpcimport hello_grpc_pb2import hello_grpc_pb2_grpcdef run():    with grpc.insecure_channel(&#39;localhost:5000&#39;) as channel:        stub = hello_grpc_pb2_grpc.GreeterStub(channel)        response = stub.SayHello(hello_grpc_pb2.HelloRequest(name=&#39;grpc&#39;))    print(&quot;call success: &#123;&#125;!&quot;.format(response.message))if __name__ == &#39;__main__&#39;:    logging.basicConfig()    run()</code></pre><p>第三步，运行Python Client</p><pre><code>% python3 python/client.pycall success: hello grpc!</code></pre><h1 id="工程打包下载"><a href="#工程打包下载" class="headerlink" title="工程打包下载"></a>工程打包下载</h1><p><a href="./grpc-demo.tgz">本站地址</a></p><EOF></EOF>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;gRpc入门步骤详解&quot;&gt;&lt;a href=&quot;#gRpc入门步骤详解&quot; class=&quot;headerlink&quot; title=&quot;gRpc入门步骤详解&quot;&gt;&lt;/a&gt;gRpc入门步骤详解&lt;/h1&gt;&lt;h2 id=&quot;1-安装Go-1-16、Python-3&quot;&gt;&lt;a href=&quot;#1</summary>
+      
+    
+    
+    
+    <category term="IT" scheme="https://www.slackideas.com/categories/IT/"/>
+    
+    
+    <category term="golang" scheme="https://www.slackideas.com/tags/golang/"/>
+    
+    <category term="rpc" scheme="https://www.slackideas.com/tags/rpc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Build MySQL_5.7.30 With Source Code On Mac Catalina</title>
+    <link href="https://www.slackideas.com/2020/12/27/Build-MySQL-5-7-30-With-Source-Code-On-Mac-Catalina/"/>
+    <id>https://www.slackideas.com/2020/12/27/Build-MySQL-5-7-30-With-Source-Code-On-Mac-Catalina/</id>
+    <published>2020-12-27T14:25:00.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<p>在<a href="../Prepare-C-Cpp-Development-With-VSCode-On-Mac-Windows">Mac Catalina上准备好C/C++开发环境</a>后，只需要再安装<code>cmake</code>，就可以编译MySQL源码了。</p><pre><code class="bash">brew install cmake</code></pre><h1 id="下载MySQL源码"><a href="#下载MySQL源码" class="headerlink" title="下载MySQL源码"></a>下载MySQL源码</h1><p>选择版本5.7.30（计划先看5.x，再看8.0，然后在源码层面做对比）</p><p>国内镜像<a href="https://mirrors.sohu.com/mysql/MySQL-5.7/">下载地址（搜狐）</a>，选择<code>mysql-boost-5.7.30.tar.gz</code></p><p><code>mysql-boot</code>是指包含了C++ Boost库的MySQL源码，对于未在本地安装（或无法安装）Boost库的开发环境较为友好。</p><h1 id="进行编译"><a href="#进行编译" class="headerlink" title="进行编译"></a>进行编译</h1><h2 id="注意cmake参数配置"><a href="#注意cmake参数配置" class="headerlink" title="注意cmake参数配置"></a>注意<code>cmake</code>参数配置</h2><p>配置前，可以先看看<a href="https://dev.mysql.com/doc/mysql-sourcebuild-excerpt/5.7/en/source-configuration-options.html">官方文档的CMake配置说明</a>，对于CMake这一工具也能多些了解。</p><pre><code class="bash"># Specify an installation directoryPREFIX_DIR=/data/mysql-5.7.30cmake  \  -DCMAKE_INSTALL_PREFIX=$&#123;PREFIX_DIR&#125;  \  -DMYSQL_DATADIR=$&#123;PREFIX_DIR&#125;/data  \  -DSYSCONFDIR==$&#123;PREFIX_DIR&#125;/etc  \  -DMYSQL_UNIX_ADDR=$&#123;PREFIX_DIR&#125;/etc/mysql.sock  \  -DWITH_MYISAM_STORAGE_ENGINE=1  \  -DWITH_INNOBASE_STORAGE_ENGINE=1  \  -DWITH_MEMORY_STORAGE_ENGINE=1  \  -DDEFAULT_COLLATION=utf8mb4_general_ci  \  -DMYSQL_TCP_PORT=3306  \  -DENABLED_LOCAL_INFILE=1  \  -DWITH_PARTITION_STORAGE_ENGINE=1  \  -DEXTRA_CHARSETS=all  \  -DDEFAULT_CHARSET=utf8mb4  \  -DENABLE_DOWNLOADS=1  \  -DWITH_BOOST=./boost</code></pre><h2 id="开始构建"><a href="#开始构建" class="headerlink" title="开始构建"></a>开始构建</h2><p>执行<code>make</code>，生成二进制文件，过程较慢，在2017版MBA 1.8GHz Dual Core i5的CPU下执行了1.3小时。</p><pre><code class="bash">time make...make  4125.91s user 289.12s system 95% cpu 1:16:48.86 total</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在&lt;a href=&quot;../Prepare-C-Cpp-Development-With-VSCode-On-Mac-Windows&quot;&gt;Mac Catalina上准备好C/C++开发环境&lt;/a&gt;后，只需要再安装&lt;code&gt;cmake&lt;/code&gt;，就可以编译MySQL源码了。</summary>
+      
+    
+    
+    
+    <category term="IT" scheme="https://www.slackideas.com/categories/IT/"/>
+    
+    
+    <category term="mysql" scheme="https://www.slackideas.com/tags/mysql/"/>
+    
+    <category term="cpp" scheme="https://www.slackideas.com/tags/cpp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Prepare C/Cpp Development With VSCode On Mac/Windows</title>
+    <link href="https://www.slackideas.com/2020/12/27/Prepare-C-Cpp-Development-With-VSCode-On-Mac-Windows/"/>
+    <id>https://www.slackideas.com/2020/12/27/Prepare-C-Cpp-Development-With-VSCode-On-Mac-Windows/</id>
+    <published>2020-12-27T06:19:00.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="MacOS-Catalina"><a href="#MacOS-Catalina" class="headerlink" title="MacOS Catalina"></a>MacOS Catalina</h1><ol><li><p>打开App Store安装Xcode直至完成</p></li><li><p>安装命令行工具 <code>xcode-select --install</code></p></li><li><p>安装VS Code <code>brew cask install visual-studio-code</code></p></li><li><p>VS Code配置</p><ol><li><p>安装”C/C++ Extension”，该过程会自动安装其依赖的相关插件</p></li><li><p>打开一个工作空间，在界面输入”Command+Shift+P”，运行”C/C++ Edit Configurations (JSON)”</p></li><li><p>在打开的配置文件中的<code>includePath</code>中添加</p><pre><code>&quot;/Library/Developer/CommandLineTools/usr/include/c++/v1&quot;,&quot;/usr/local/include&quot;,&quot;/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include&quot;,&quot;/Library/Developer/CommandLineTools/usr/include&quot;</code></pre></li><li><p>在打开的配置文件中的<code>macFrameworkPath</code>中添加</p><pre><code>&quot;/System/Library/Frameworks&quot;,&quot;/Library/Frameworks&quot;</code></pre></li><li><p>在界面输入”Command+Shift+P”，运行”Tasks: Configure Task”，编辑内容如下</p><pre><code>&#123; &quot;version&quot;: &quot;2.0.0&quot;, &quot;tasks&quot;: [     &#123;         &quot;label&quot;: &quot;C++: clang++ build active file&quot;,         &quot;command&quot;: &quot;clang++&quot;,         &quot;type&quot;: &quot;shell&quot;,         &quot;args&quot;: [             &quot;-g&quot;,             &quot;$&#123;file&#125;&quot;,             &quot;-std=c++11&quot;,             &quot;-o&quot;,             &quot;$&#123;fileDirname&#125;/$&#123;fileBasenameNoExtension&#125;&quot;         ],         &quot;presentation&quot;: &#123;             &quot;echo&quot;: true,             &quot;reveal&quot;: &quot;always&quot;,             &quot;focus&quot;: false,             &quot;panel&quot;: &quot;shared&quot;         &#125;     &#125; ]&#125;</code></pre></li><li><p>在界面输入”Command+Shift+P”，运行”Debug: Open launch.json”，编辑内容如下</p><pre><code>&#123; &quot;version&quot;: &quot;0.2.0&quot;, &quot;configurations&quot;: [     &#123;         &quot;name&quot;: &quot;C/C++ Launch active file&quot;,         &quot;type&quot;: &quot;cppdbg&quot;,         &quot;request&quot;: &quot;launch&quot;,         &quot;program&quot;: &quot;$&#123;fileDirname&#125;/$&#123;fileBasenameNoExtension&#125;&quot;,         &quot;args&quot;: [],         &quot;stopAtEntry&quot;: false,         &quot;cwd&quot;: &quot;$&#123;workspaceFolder&#125;&quot;,         &quot;environment&quot;: [],         &quot;externalConsole&quot;: false,         &quot;MIMode&quot;: &quot;lldb&quot;,         &quot;preLaunchTask&quot;: &quot;C++: clang++ build active file&quot;     &#125; ]&#125;</code></pre></li><li><p>新建cpp/hello.cpp文件，输入以下内容，看看智能代码提示是否生效</p><pre><code class="cpp">#include &lt;iostream&gt;using namespace std;int main() &#123; cout&lt;&lt;&quot;Hello&quot;&lt;&lt;endl;&#125;</code></pre></li><li><p>测试运行，在运行窗口可看到刚配置的”C/C++ Launch”任务，运行将弹出Terminal显示Hello以及一些辅助信息<br><img src="/2020/12/27/Prepare-C-Cpp-Development-With-VSCode-On-Mac-Windows/Launch.png"></p></li><li><p>测试调试，在cpp/hello.cpp第5行添加断点，将看到断点调试效果<br><img src="/2020/12/27/Prepare-C-Cpp-Development-With-VSCode-On-Mac-Windows/Debug.png"></p></li></ol></li></ol><h1 id="Windows-10"><a href="#Windows-10" class="headerlink" title="Windows 10"></a>Windows 10</h1><p>在Windows 10上搭建VS Code C/C++开发环境（基于WSL服务）</p><ol><li>按Win键搜索功能”Windows Features”</li><li>在弹出窗口中勾选”Windows Subsystem for Linux”项</li><li>打开Microsoft Store搜索Ubuntu并开始安装（也可凭个人爱好选用其他的发行版）</li><li>安装成功后进入启动初始化</li><li>初始化完成后，进入系统按需修改APT源<pre><code class="bash"># 备份配置文件sudo cp -a /etc/apt/sources.list /etc/apt/sources.list.bak# 使用国内源（以华为镜像源为例）sudo sed -i &quot;s@http://.*archive.ubuntu.com@http://mirrors.huaweicloud.com@g&quot; /etc/apt/sources.listsudo sed -i &quot;s@http://.*security.ubuntu.com@http://mirrors.huaweicloud.com@g&quot; /etc/apt/sources.list</code></pre></li><li>安装开发所需软件<pre><code class="bash">sudo apt updatesudo apt install gcc gdb</code></pre></li><li>从<a href="https://code.visualstudio.com/download">官网</a>下载安装VSCode</li><li>VS Code配置<ol><li>安装”Remote WSL”插件，安装后会自动连接WSL并在WSL上下载安装VSCode Server</li><li>打开一个工作空间，安装”C/C++ Extension”</li><li>插件安装后，正常情况下会自动在空间下配置好tasks.json和launch.json</li><li>可进行运行和调试</li></ol></li></ol><p>至此，环境配置结束。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;MacOS-Catalina&quot;&gt;&lt;a href=&quot;#MacOS-Catalina&quot; class=&quot;headerlink&quot; title=&quot;MacOS Catalina&quot;&gt;&lt;/a&gt;MacOS Catalina&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;打开App Store安装</summary>
+      
+    
+    
+    
+    <category term="IT" scheme="https://www.slackideas.com/categories/IT/"/>
+    
+    
+    <category term="mac" scheme="https://www.slackideas.com/tags/mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Dealing With A MySQL Deadlock Problem Caused By Concurrent DML</title>
+    <link href="https://www.slackideas.com/2020/12/06/Dealing-With-A-MySQL-Deadlock-Problem-Caused-By-Concurrent-DML/"/>
+    <id>https://www.slackideas.com/2020/12/06/Dealing-With-A-MySQL-Deadlock-Problem-Caused-By-Concurrent-DML/</id>
+    <published>2020-12-06T15:43:00.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="记一次由并发DML引起的MySQL死锁场景"><a href="#记一次由并发DML引起的MySQL死锁场景" class="headerlink" title="记一次由并发DML引起的MySQL死锁场景"></a>记一次由并发DML引起的MySQL死锁场景</h1><p>一次出差中，在客户现场遇到了由并发DML引起的MySQL死锁场景</p><h2 id="场景再现"><a href="#场景再现" class="headerlink" title="场景再现"></a>场景再现</h2><p>首先把场景重现并简化，触发条件：①事务隔离级别为InnoDB默认的REPEATABLE-READ，②有多个Session同时进行事务操作，而事务的内容是先删除一行特定记录然后重新插入该记录。</p><p>如下图所示：</p><p><img src="/2020/12/06/Dealing-With-A-MySQL-Deadlock-Problem-Caused-By-Concurrent-DML/Transaction-Deadlock-Demo.png"></p><p>数据库<code>show engine innodb status</code>吐出的死锁信息如下：</p><pre><code>------------------------LATEST DETECTED DEADLOCK------------------------2020-12-06 22:14:23 0x70000ca32000*** (1) TRANSACTION:TRANSACTION 1563, ACTIVE 34 sec insertingmysql tables in use 1, locked 1LOCK WAIT 3 lock struct(s), heap size 1136, 2 row lock(s)MySQL thread id 21, OS thread handle 123145523712000, query id 86 localhost root updateinsert into tb values(1)*** (1) HOLDS THE LOCK(S):RECORD LOCKS space id 2 page no 4 n bits 72 index PRIMARY of table `test`.`tb` trx id 1563 lock_mode XRecord lock, heap no 1 PHYSICAL RECORD: n_fields 1; compact format; info bits 0 0: len 8; hex 73757072656d756d; asc supremum;;*** (1) WAITING FOR THIS LOCK TO BE GRANTED:RECORD LOCKS space id 2 page no 4 n bits 72 index PRIMARY of table `test`.`tb` trx id 1563 lock_mode X insert intention waitingRecord lock, heap no 1 PHYSICAL RECORD: n_fields 1; compact format; info bits 0 0: len 8; hex 73757072656d756d; asc supremum;;*** (2) TRANSACTION:TRANSACTION 1564, ACTIVE 21 sec insertingmysql tables in use 1, locked 1LOCK WAIT 3 lock struct(s), heap size 1136, 2 row lock(s)MySQL thread id 29, OS thread handle 123145523408896, query id 87 localhost root updateinsert into tb values(2)*** (2) HOLDS THE LOCK(S):RECORD LOCKS space id 2 page no 4 n bits 72 index PRIMARY of table `test`.`tb` trx id 1564 lock_mode XRecord lock, heap no 1 PHYSICAL RECORD: n_fields 1; compact format; info bits 0 0: len 8; hex 73757072656d756d; asc supremum;;*** (2) WAITING FOR THIS LOCK TO BE GRANTED:RECORD LOCKS space id 2 page no 4 n bits 72 index PRIMARY of table `test`.`tb` trx id 1564 lock_mode X insert intention waitingRecord lock, heap no 1 PHYSICAL RECORD: n_fields 1; compact format; info bits 0 0: len 8; hex 73757072656d756d; asc supremum;;*** WE ROLL BACK TRANSACTION (2)</code></pre><p>从死锁信息中可以看出，两个事务持有的锁是锁在相同的一块区域上：</p><pre><code>0: len 8; hex 73757072656d756d; asc supremum;;</code></pre><h2 id="死锁分析"><a href="#死锁分析" class="headerlink" title="死锁分析"></a>死锁分析</h2><p>上面已经指出了不同的SQL语句会加什么锁，更加详细的内容可以在这里看：<a href="https://dev.mysql.com/doc/refman/8.0/en/innodb-locks-set.html">15.7.3 Locks Set by Different SQL Statements in InnoDB</a></p><p>我们只看本次场景涉及到的DELETE和INSERT语句。</p><h3 id="DELETE语句的锁操作"><a href="#DELETE语句的锁操作" class="headerlink" title="DELETE语句的锁操作"></a>DELETE语句的锁操作</h3><pre><code>DELETE FROM ... WHERE ... sets an exclusive next-key lock on every record the search encounters. However, only an index record lock is required for statements that lock rows using a unique index to search for a unique row.DELETE FROM ... WHERE ...会在所有满足条件的记录上都设置一个排他的next-key锁，即锁住之前的Gap和待删除的记录。如果删除的数据比当前最大数据max还大，就会锁住(max, +∞)这个GAP；如果删除的数据比当前最小数据min还小，则会锁住(-∞, min)这个GAP。不过要注意：如果待搜索字段是用唯一键搜索的，那么只会加一个Index Record Lock。</code></pre><p><em>至于为何会出现+∞和-∞两个概念，请看这里<a href="https://dev.mysql.com/doc/internals/en/innodb-infimum-and-supremum-records.html">22.2.1.3 The Infimum and Supremum Records</a></em></p><h3 id="INSERT语句的锁操作"><a href="#INSERT语句的锁操作" class="headerlink" title="INSERT语句的锁操作"></a>INSERT语句的锁操作</h3><p>插入语句由于引入意向锁(Insert Intetion Lock)，会稍微复杂一些。</p><pre><code>INSERT sets an exclusive lock on the inserted row. This lock is an index-record lock, not a next-key lock (that is, there is no gap lock) and does not prevent other sessions from inserting into the gap before the inserted row.INSERT 会在待插入记录上加排他锁，它是行锁而非GAP锁，并不会阻塞其他会话在该行之前的GAP插入数据。Prior to inserting the row, a type of gap lock called an insert intention gap lock is set. This lock signals the intent to insert in such a way that multiple transactions inserting into the same index gap need not wait for each other if they are not inserting at the same position within the gap. 但在插入之前，一个名为Insert Intention Gap Lock的GAP锁会加在待插入区域，本次场景中即为(5,+∞)区域。</code></pre><h3 id="GAP锁的作用"><a href="#GAP锁的作用" class="headerlink" title="GAP锁的作用"></a>GAP锁的作用</h3><p>GAP锁作用是，防止其他事务在这个gap内的插入，但不排斥其他事务在同一个gap内加GAP锁，因此Gap X锁和Gap S锁效果相同。</p><h2 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h2><p>直接解决方法：将事务隔离级别由REPEATABLE-READ改为READ-COMMITTED。</p><p>因为在RR隔离级别中，读会加排他锁，而RC隔离级别中读只会加共享锁，这样可以避免出现本次场景中的互锁现象。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;记一次由并发DML引起的MySQL死锁场景&quot;&gt;&lt;a href=&quot;#记一次由并发DML引起的MySQL死锁场景&quot; class=&quot;headerlink&quot; title=&quot;记一次由并发DML引起的MySQL死锁场景&quot;&gt;&lt;/a&gt;记一次由并发DML引起的MySQL死锁场景&lt;/</summary>
+      
+    
+    
+    
+    <category term="IT" scheme="https://www.slackideas.com/categories/IT/"/>
+    
+    
+    <category term="mysql" scheme="https://www.slackideas.com/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Sequence Of Multi-matches In Regex Expression</title>
+    <link href="https://www.slackideas.com/2019/12/21/The-Sequence-Of-Multi-matches-In-Regex-Expression/"/>
+    <id>https://www.slackideas.com/2019/12/21/The-Sequence-Of-Multi-matches-In-Regex-Expression/</id>
+    <published>2019-12-21T11:11:55.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="正则表达式多选结构的顺序"><a href="#正则表达式多选结构的顺序" class="headerlink" title="正则表达式多选结构的顺序"></a>正则表达式多选结构的顺序</h1><h2 id="先看一道编程题"><a href="#先看一道编程题" class="headerlink" title="先看一道编程题"></a>先看一道编程题</h2><blockquote><p>从一段只包含[<code>.</code>,<code>0</code>-<code>9</code>]字符的字符串中提取出全部可能的IPv4地址。</p><p>IPv4地址由十进制数和点来表示，每个地址包含4个十进制数，其范围为<code>0-255</code>,比如<code>172.16.254.1</code>；同时，4个十进制数不会以<code>0</code>开头，比如<code>172.16.254.01</code>是不合法的。</p><p>现输入一段文本<code>str=&quot;1.1.1111.16..172.16.254.1.1&quot;</code>，要求用程序答出该字符串所有子串可能形成的IPv4地址。</p></blockquote><p>很多人会想到，<code>IPv4的正则表达式我可熟悉啦，肯定能快速完成！</code>于是从网上搜索到IPv4的正则表达式，写出了以下代码：</p><pre><code class="java">// Java语言import java.util.*;import java.util.regex.*;class Solution &#123;    private static final Pattern IPV4_PATTERN =            Pattern.compile(&quot;((([1-9][0-9]?)|(1[0-9]&#123;2&#125;)|(2[0-4]\\d)|(25[0-5])|0)\\.)&#123;3&#125;&quot; +                    &quot;(([1-9][0-9]?)|(1[0-9]&#123;2&#125;)|(2[0-4]\\d)|(25[0-5])|0)&quot;);    public Set&lt;String&gt; findAllIpv4(String input) &#123;        Set&lt;String&gt; s = new TreeSet&lt;String&gt;();        Matcher m = IPV4_PATTERN.matcher(input);        int from = 0;        while (m.find(from)) &#123;            s.add(input.substring(m.start(), m.end()));            from++;        &#125;        return s;    &#125;&#125;</code></pre><p>我们看完这一段代码，可以确定的是：1. 正则表达式没问题，正确的IPV4地址可以用它来验证；2. Java Regex API用法也没有太大问题，基本符合预期。</p><pre><code>输入：0.0.0.255输出：[0.0.0.25]</code></pre><p>但这段代码的结果是不正确的，正确输出是<code>[0.0.0.2, 0.0.0.25, 0.0.0.255]</code>，原因就出在正则中多选结构<code>|</code>的用法上。</p><h2 id="多选结构（Alternation）"><a href="#多选结构（Alternation）" class="headerlink" title="多选结构（Alternation）"></a>多选结构（Alternation）</h2><p>多选结构在不同的正则引擎中，工作原理是截然不同的。在传统型<code>NFA</code>引擎中，会按照从左到右的顺序检查表达式中的多选分支，一旦可以匹配完成，<strong>其他的多选分支就不会尝试了</strong>。[^1]</p><p>以上节的正则表达式为例，我们单独摘出每个十进制数的表达式<code>(([1-9][0-9]?)|(1[0-9]&#123;2&#125;)|(2[0-4]\\d)|(25[0-5])|0)</code>，它会以如下顺序进行匹配：</p><pre><code>1. ([1-9][0-9]?)      # 一位数或两位数2. (1[0-9]&#123;2&#125;)        # 位于区间[100-199]的三位数3. (2[0-4]\\d)        # 位于区间[200-249]的三位数4. (25[0-5])          # 位于区间[250-255]的三位数5. 0                  # 0</code></pre><p>那么在针对输入字符串<code>0.0.0.255</code>的匹配过程中，在进行第四个十进制数<code>255</code>的匹配时，会优先计算表达式<code>([1-9][0-9]?)</code>，这样可以匹配到<code>25</code>和<code>2</code>，而<code>?(question mark)</code>在正则中是一个贪婪量词[^2]，因此仅会留下<code>25</code>，所以最终我们看到了运行结果是<code>[0.0.0.25]</code>。</p><p>以这些知识为前提，我们可以通过<code>优先匹配多位数字，手工解析少量数字</code>的方式得到正确的解答程序，这样做的话，正则表达式需要做一些调整，将多位数匹配的多选分支放在前面，即<code>(25[0-5]|2[0-4]\\d|1\\d&#123;2&#125;|[1-9]\\d|\\d)</code>，代码如下：</p><pre><code class="java">// Java语言import java.util.*;import java.util.regex.*;class Solution &#123;    private static final Pattern IPV4_PATTERN =            Pattern.compile(&quot;((25[0-5]|2[0-4]\\d|1\\d&#123;2&#125;|[1-9]\\d|\\d)\\.)&#123;3&#125;&quot; +                    &quot;(25[0-5]|2[0-4]\\d|1\\d&#123;2&#125;|[1-9]\\d|\\d)&quot;);    public Set&lt;String&gt; findAllIpv4(String input) &#123;        Set&lt;String&gt; s = new TreeSet&lt;String&gt;();        Matcher m = IPV4_PATTERN.matcher(input);        int from = 0;        int lastDotIdx = 0;        String sub = null;        while (m.find(from)) &#123;            sub = input.substring(m.start(), m.end());            s.add(sub);            lastDotIdx = sub.lastIndexOf(&#39;.&#39;);            if (lastDotIdx == sub.length() - 3) &#123;                s.add(sub.substring(0, sub.length() - 1));            &#125; else if (lastDotIdx == sub.length() - 4) &#123;                s.add(sub.substring(0, sub.length() - 1));                s.add(sub.substring(0, sub.length() - 2));            &#125;            from++;        &#125;        return s;    &#125;&#125;</code></pre><p>[^1]: Friedl, J. E. (2006). Mastering regular expressions. “ O’Reilly Media, Inc.”, p174-p175.</p><p>[^2]: Friedl, J. E. (2006). Mastering regular expressions. “ O’Reilly Media, Inc.”, p142.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;正则表达式多选结构的顺序&quot;&gt;&lt;a href=&quot;#正则表达式多选结构的顺序&quot; class=&quot;headerlink&quot; title=&quot;正则表达式多选结构的顺序&quot;&gt;&lt;/a&gt;正则表达式多选结构的顺序&lt;/h1&gt;&lt;h2 id=&quot;先看一道编程题&quot;&gt;&lt;a href=&quot;#先看一道编程</summary>
+      
+    
+    
+    
+    <category term="IT" scheme="https://www.slackideas.com/categories/IT/"/>
+    
+    
+    <category term="java" scheme="https://www.slackideas.com/tags/java/"/>
+    
+    <category term="emerg" scheme="https://www.slackideas.com/tags/emerg/"/>
+    
+    <category term="regex" scheme="https://www.slackideas.com/tags/regex/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Brief Introduction Of JVM G1</title>
+    <link href="https://www.slackideas.com/2019/11/24/The-Brief-Introduction-Of-JVM-G1/"/>
+    <id>https://www.slackideas.com/2019/11/24/The-Brief-Introduction-Of-JVM-G1/</id>
+    <published>2019-11-24T13:24:56.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="JVM-G1垃圾回收算法简要介绍"><a href="#JVM-G1垃圾回收算法简要介绍" class="headerlink" title="JVM G1垃圾回收算法简要介绍"></a>JVM G1垃圾回收算法简要介绍</h1><h2 id="G1的特点"><a href="#G1的特点" class="headerlink" title="G1的特点"></a>G1的特点</h2><ol><li>能够像CMS垃圾回收算法一样并发操作应用线程（潜台词：多核）</li><li>无需太长时间即可压缩空闲内存空间（潜台词：不会引起太多的GC停顿时间）</li><li>尽可能地让GC时长可控</li><li>不希望牺牲过多的吞吐量</li><li>不希望因此耗费大量更多的Heap空间</li></ol><h2 id="G1的优势"><a href="#G1的优势" class="headerlink" title="G1的优势"></a>G1的优势</h2><p>G1作为CMS的长期替代品，有若干点优势：</p><ol><li>G1是一个压缩收集器，提供足够强的压缩来完全避免狭小的内存分配</li><li>依赖Regions概念，大大简化收集器逻辑，大部分情况下规避潜在的内存碎片问题</li><li>比CMS的GC停顿时长更加可预测，并允许用户指定停顿时长</li></ol><h2 id="G1的收集步骤"><a href="#G1的收集步骤" class="headerlink" title="G1的收集步骤"></a>G1的收集步骤</h2><p>Phase 1: Concurrent Global Marking. 并发扫描一遍之后，G1知道了哪些Region里大部分是空的（即大部分是可回收的对象），G1把收集和压缩操作集中于此，因此得名Garbage First.</p><p>Phase 2: Evacuation. 并发地将一个或多个Region的资源拷贝至新的Region，压缩内存、拷贝、释放已拷贝完成的Region. 与此相比，CMS没有压缩内存（去除碎片）这一步，ParallelOld垃圾收集只进行全堆压缩.</p><p>细节：G1会估算Region的回收时间，以计算在用户指定时间内可回收多少（量力而行），因此G1不是『实时』收集器 ：）</p><h2 id="G1的建议使用场景"><a href="#G1的建议使用场景" class="headerlink" title="G1的建议使用场景"></a>G1的建议使用场景</h2><p>拥有较大Heap空间（6GB及以上）、低停顿时长（0.5ms以内）要求的应用。</p><p>现在使用ParallelGC或CMS的应用，如果存在以下问题，可以考虑切换至G1：</p><ol><li>Full GC过于频繁、停顿时间过长的应用</li><li>对象分配比例经常发生剧变的应用</li><li>回收或压缩时间太长的应用（高于0.5s到1s）</li></ol><p>如果使用ParallelGC或CMS没有发现以上现象，可以不必急于切换到G1，新版JVM仍然支持旧的垃圾回收算法。</p><h2 id="G1的注意事项"><a href="#G1的注意事项" class="headerlink" title="G1的注意事项"></a>G1的注意事项</h2><p>若从ParallelOldGC或CMS切换至G1，很可能会发现JVM运行内存变大了。这很大程度上要归因于 用于审计的两个数据结构『Remembered Sets』和『Collection Sets』</p><ol><li>『Remembered Sets』每个Region都有一个，用于记录该Region中的对象引用，给G1提供并行独立收集各Region内存的可能性，它带来的负面影响不超5%</li><li>『Collection Sets』记录被收集的Region，它内部的所有数据会被收集干净，它带来的负面影响不超1%</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;JVM-G1垃圾回收算法简要介绍&quot;&gt;&lt;a href=&quot;#JVM-G1垃圾回收算法简要介绍&quot; class=&quot;headerlink&quot; title=&quot;JVM G1垃圾回收算法简要介绍&quot;&gt;&lt;/a&gt;JVM G1垃圾回收算法简要介绍&lt;/h1&gt;&lt;h2 id=&quot;G1的特点&quot;&gt;&lt;a</summary>
+      
+    
+    
+    
+    <category term="IT" scheme="https://www.slackideas.com/categories/IT/"/>
+    
+    
+    <category term="java" scheme="https://www.slackideas.com/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java Performance Extreme Programming</title>
+    <link href="https://www.slackideas.com/2018/05/19/Java-Performance-Extreme-Programming/"/>
+    <id>https://www.slackideas.com/2018/05/19/Java-Performance-Extreme-Programming/</id>
+    <published>2018-05-19T12:22:04.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Java性能极限编程-转载"><a href="#Java性能极限编程-转载" class="headerlink" title="Java性能极限编程(转载)"></a>Java性能极限编程(转载)</h1><h2 id="不同位数的Hash算法的碰撞概率"><a href="#不同位数的Hash算法的碰撞概率" class="headerlink" title="不同位数的Hash算法的碰撞概率"></a>不同位数的Hash算法的碰撞概率</h2><ul><li>32位的Hash算法，无论使用哪一种，都会存在碰撞。</li><li>128位的Hash算法（比如MD5）基本找不到碰撞，但性能不够好。</li><li>64位的Hash算法，取值范围42亿的平方，基本找不到碰撞。比如，在值范围量并不超过100万的场景，可以假设唯一。</li></ul><h2 id="FNV-1a-64算法"><a href="#FNV-1a-64算法" class="headerlink" title="FNV_1a_64算法"></a>FNV_1a_64算法</h2><p><a href="https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function">FNV</a>算法，其改进版本是fnv_1a，fnv是一种非常简洁并有效的hash算法，具体实现如下：</p><pre><code class="java">public static long fnv1a_64(String chars) &#123;    long hash = 0xcbf29ce484222325L;    for (int i = 0; i &lt; chars.length(); ++i) &#123;        char c = chars.charAt(i);        hash ^= c;        hash *= 0x100000001b3L;    &#125;    return hash;&#125;</code></pre><p>在上面的代码看来，可以做增量计算。增量计算可以用来很多场景优化，比如class的fullName由package和simpleName组成，如果已经计算了package的hashCode，就是在此基础上计算fullName的hashCode，不用从头开始计算，这在很多场景可以优化性能。</p><h2 id="增量计算的实现"><a href="#增量计算的实现" class="headerlink" title="增量计算的实现"></a>增量计算的实现</h2><pre><code class="java">public static long fnv1a_64_increment(long basic, char seperator, String chars) &#123;    long hashCode = basic;        // 补上分隔符的Hash增量    hashCode ^= seperator;    hashCode *= 0x100000001b3L;    // 补上SimpleName的Hash增量    for (int i = 0; i &lt; chars.length(); ++i) &#123;        char ch = chars.charAt(i);        hashCode ^= ch;        hashCode *= 0x100000001b3L;    &#125;    return hashCode;&#125;// 先计算package的Hashlong pkgHashCode64 = fnv1a_64(&quot;com.alibaba.xxx&quot;);// 增量计算fullName的HashCodelong fullNameHashCode64 = fnv1a_64_increment(pkgHashCode64, &#39;.&#39;, &quot;MyClassName&quot;);</code></pre><h2 id="大小写无关的FNV-Hash算法实现"><a href="#大小写无关的FNV-Hash算法实现" class="headerlink" title="大小写无关的FNV Hash算法实现"></a>大小写无关的FNV Hash算法实现</h2><p>在SQL分析等场景，为了更好的用户体验，对象名查找需要大小写不敏感。</p><pre><code class="java">public static long fnv1a_64_lower(String key) &#123;    long hashCode = 0xcbf29ce484222325L;;    for (int i = 0; i &lt; key.length(); ++i) &#123;        char ch = key.charAt(i);        // 所有大写都转成小写        if (ch &gt;= &#39;A&#39; &amp;&amp; ch &lt;= &#39;Z&#39;) &#123;            ch = (char) (ch + 32);        &#125;        hashCode ^= ch;        hashCode *= 0x100000001b3L;    &#125;    return hashCode;&#125;</code></pre><h2 id="二分查找和fnv-1a-hash-64组合使用"><a href="#二分查找和fnv-1a-hash-64组合使用" class="headerlink" title="二分查找和fnv_1a_hash_64组合使用"></a>二分查找和fnv_1a_hash_64组合使用</h2><pre><code class="java">String[] strings = &#123; &quot;AVG&quot;, &quot;COUNT&quot;, &quot;MAX&quot;, &quot;MIN&quot;, &quot;STDDEV&quot;, &quot;SUM&quot; &#125;;// 计算hashCodes并且排序long[] hashCodes = new long[strings.length];for (int i = 0; i &lt; strings.length; i++) &#123;    hashCodes[i] = fnv1a_64_lower(strings[i]);&#125;Arrays.sort(hashCodes);// 建立根据hashCode排序的映射关系String[] keywords = new String[hashCodes.length];for (String str : strings) &#123;    long hash = FnvHash.fnv1a_64_lower(str);    int index = Arrays.binarySearch(hashCodes, hash);    keywords[index] = str;&#125;// 根据hashCode二分查找到位置，然后获取public String getKeyword(long hash) &#123;    int index = Arrays.binarySearch(hashCodes, hash);    if (index &lt; 0) &#123;        return null;    &#125;    return keywords[index];&#125;</code></pre><h2 id="替换hashCode和equals实现"><a href="#替换hashCode和equals实现" class="headerlink" title="替换hashCode和equals实现"></a>替换hashCode和equals实现</h2><pre><code class="java">class SQLIdentifierExpr &#123;    private String    name;    private long      hashCode64;        public SQLIdentifierExpr(String name, long hash_lower)&#123;        this.name = name;        this.hashCode64 = hash_lower;    &#125;        @Override    public int hashCode() &#123;        long value = hashCode64;        return (int)(value ^ (value &gt;&gt;&gt; 32));    &#125;        @Override    public boolean equals(Object obj) &#123;        if (!(obj instanceof SQLIdentifierExpr)) &#123;            return false;        &#125;            SQLIdentifierExpr other = (SQLIdentifierExpr) obj;                // hashCode64相等就假设相等        return this.hashCode64 == other.hashCode64;     &#125;&#125;</code></pre><h2 id="应用举例-使用HashCode64替换字符串比较"><a href="#应用举例-使用HashCode64替换字符串比较" class="headerlink" title="应用举例 使用HashCode64替换字符串比较"></a>应用举例 使用HashCode64替换字符串比较</h2><p>在Druid SQL Parser中，抽象与发分析时，使用了通过比较hashCode64替代字符串比较，极大提升语义分析的性能。</p><pre><code class="java">public class SQLExprTableSource extends SQLTableSourceImpl &#123;    protected SQLExpr     expr;    public SQLTableSource findTableSource(long alias_hash) &#123;        if (alias_hash == 0) &#123;            return null;        &#125;        if (aliasHashCode64() == alias_hash) &#123;            return this;        &#125;        if (expr instanceof SQLName) &#123;            long exprNameHash = ((SQLName) expr).nameHashCode64();            if (exprNameHash == alias_hash) &#123;                return this;            &#125;        &#125;        if (expr instanceof SQLPropertyExpr) &#123;            long hash = ((SQLPropertyExpr) expr).hashCode64();            if (hash == alias_hash) &#123;                return this;            &#125;        &#125;        return null;    &#125;&#125; </code></pre><h2 id="应用举例-fastjson-android版本属性名快速匹配"><a href="#应用举例-fastjson-android版本属性名快速匹配" class="headerlink" title="应用举例 fastjson android版本属性名快速匹配"></a>应用举例 fastjson android版本属性名快速匹配</h2><pre><code>// JSON字符串&#123;”id”:1001,”name”:”wenshao”&#125;// 类定义public class Person &#123;   public int id;   public String name;&#125;// 读取属性名的fnv_1a_hashCode64public long readNameHash() &#123;    long hash = 0x811c9dc5;    for (; i &lt; text.length; ++p) &#123;        char ch = text.charAt(p);        if (ch == &#39;&quot;&#39;) break;            hash ^= ch;            hash *= 0x1000193;        &#125;    return hash;&#125;// 把fieldName hash读取出来，查找对应的FieldDeserializer// 避免了构造fieldName的字符串，减少内存分配，也提升了fndFieldDeserializer的性能long nameHash = readNameHash();FieldDeserializer fieldDeser = fndFieldDeserializer(nameHash);if (fieldDeser != null) &#123;   fieldDeser.readValue();&#125;// 以上为伪码，真实实现会复杂很多</code></pre><h2 id="更多应用场景"><a href="#更多应用场景" class="headerlink" title="更多应用场景"></a>更多应用场景</h2><ul><li><a href="https://github.com/alibaba/druid/wiki/SQL-Parser">Druid SQL Parser</a> 在Parser是使用fnv_1a_hash优化Parser性能，并且将hashCode64保存到AST（抽象语法树）节点上，用于加速分析时节点查找。比如 [<a href="https://github.com/alibaba/druid/blob/master/src/main/java/com/alibaba/druid/sql/ast/expr/SQLIdentifierExpr.java#L42]">https://github.com/alibaba/druid/blob/master/src/main/java/com/alibaba/druid/sql/ast/expr/SQLIdentifierExpr.java#L42]</a></li><li>Fastjson在parse属性名时使用hashCode加速，比如 <a href="https://github.com/alibaba/fastjson/blob/android/src/main/java/com/alibaba/fastjson/parser/JSONLexer.java#L2056">https://github.com/alibaba/fastjson/blob/android/src/main/java/com/alibaba/fastjson/parser/JSONLexer.java#L2056</a></li><li>数据库相关的应用的基于Name的查找</li><li>类名查找</li><li>RPC场景的方法Signature匹配</li><li>两个数据表算delta</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Java性能极限编程-转载&quot;&gt;&lt;a href=&quot;#Java性能极限编程-转载&quot; class=&quot;headerlink&quot; title=&quot;Java性能极限编程(转载)&quot;&gt;&lt;/a&gt;Java性能极限编程(转载)&lt;/h1&gt;&lt;h2 id=&quot;不同位数的Hash算法的碰撞概率&quot;&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="IT" scheme="https://www.slackideas.com/categories/IT/"/>
+    
+    
+    <category term="java" scheme="https://www.slackideas.com/tags/java/"/>
+    
+    <category term="tricks" scheme="https://www.slackideas.com/tags/tricks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Troubleshooting Case On Mixed Logging Frameworks In Java Maven Projects</title>
+    <link href="https://www.slackideas.com/2018/03/02/A-Troubleshooting-Case-On-Mixed-Logging-Frameworks-In-Java-Maven-Projects/"/>
+    <id>https://www.slackideas.com/2018/03/02/A-Troubleshooting-Case-On-Mixed-Logging-Frameworks-In-Java-Maven-Projects/</id>
+    <published>2018-03-02T12:23:24.000Z</published>
+    <updated>2022-04-16T11:47:46.718Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一次日志框架排坑记录"><a href="#一次日志框架排坑记录" class="headerlink" title="一次日志框架排坑记录"></a>一次日志框架排坑记录</h1><p>一个Java项目中，由于引入的依赖可能使用各种不同的日志框架，并且各个模块的开发人员在没有硬性要求时会习惯性地使用自己熟悉的框架，这就导致项目中对各种日志框架的依赖各式各样，排查起来很麻烦。</p><p>例如，项目写日志的代码中，有直接使用Log4j的这种写法：</p><pre><code class="java">// 使用 log4j.log4j 1.2.17import org.apache.log4j.Logger;...private Logger logger = Logger.getLogger(DBConnectionUtils.class);logger.error(&quot;error&quot;);...</code></pre><p>也有直接使用 Log4j 2的写法：</p><pre><code class="java">// 使用 org.apache.logging.log4j.log4j-api 2.10.0import org.apache.logging.log4j.LogManager;import org.apache.logging.log4j.Logger;...private Logger logger = LogManager.getLogger(&quot;loggerName&quot;);logger.error(&quot;error&quot;);...</code></pre><p>还有使用 Slf4j 的写法：</p><pre><code class="java">// 使用 org.slf4j.slf4j-api 1.7.25import org.slf4j.Logger;import org.slf4j.LoggerFactory;...public Logger logger = LoggerFactory.getLogger(&quot;loggerName&quot;);logger.error(&quot;error&quot;);...// 或使用 lombok 的Slf4j注解 import lombok.extern.slf4j.Slf4j;// 利用注解产生log变量@Slf4jpublic class TestClass &#123;  public void testMethod() &#123;    log.error(&quot;error&quot;);  &#125;&#125;</code></pre><p>由于项目日志的配置使用的log4j.xml，对应 log4j2 ，因此 log4j1 的使用应该是无效的，所有显式使用log4j1的地方需要全部改掉。</p><p>Slf4j 是一个日志接口，能兼容多种日志实现，如 log4j / JCL(java commons logging) / logback / java.util.logging , 能带来很好的扩展性，建议使用。因此所有显式使用 log4j2 的代码也需要改成 slf4j 。</p><p>由于三种写法的代码文件都很多，必须写一个脚本来实现代码替换，预先将目标文件的路径存放于 tmp_list 中，然后在同目录下执行下列脚本：</p><pre><code class="bash">#!/bin/sh# Env: MacBookPro11,4; 版本 10.13.3（版号 17D47） for DIR in `cat tmp_list`; doecho $DIR# 替换import org.apache.log4j.Logger;这行find $DIR -type f -name *.java -exec sed -i &#39;&#39; &#39;/import org.apache.log4j.Logger;/d&#39; &#123;&#125; \;# 替换*Logger logger =*这行find $DIR -type f -name *.java -exec sed -i &#39;&#39; &#39;/Logger logger =/d&#39; &#123;&#125; \;# 替换logger为logfind $DIR -type f -name *.java -exec sed -i &#39;&#39; &#39;s/logger/log/g&#39; &#123;&#125; \;# 在public abstract class上一行添加@Slf4jfind $DIR -type f -name *.java -exec sed -i &#39;&#39; &#39;/public abstract class/i\@lombok.extern.slf4j.Slf4j\&#39; &#123;&#125; \;# 在public class上一行添加@Slf4jfind $DIR -type f -name *.java -exec sed -i &#39;&#39; &#39;/public class/i\@lombok.extern.slf4j.Slf4j\&#39; &#123;&#125; \;done;</code></pre><p>执行结束后，代码编译通过，说明没有明显的替换错误。但是工程启动后，发现有报错，TDDL 客户端抛出了以下异常(已经隐去不相干的若干行)：</p><pre><code>JM.Log:ERROR Failed to get Slf4jLoggerjava.lang.IllegalArgumentException: delegate must be logback impl or slf4j-log4j impl    at com.taobao.middleware.logger.slf4j.Slf4jLogger.&lt;init&gt;(Slf4jLogger.java:50)    at com.taobao.middleware.logger.slf4j.Slf4jLoggerFactory.getLogger(Slf4jLoggerFactory.java:17)    at com.taobao.middleware.logger.LoggerFactory.getLogger(LoggerFactory.java:60)    at com.taobao.middleware.logger.LoggerFactory.getLogger(LoggerFactory.java:69)    at com.taobao.diamond.client.impl.LogUtils.logger(LogUtils.java:36)    at com.taobao.diamond.client.impl.DiamondEnv.&lt;clinit&gt;(DiamondEnv.java:696)    at com.taobao.diamond.client.impl.DiamondEnvRepo.&lt;clinit&gt;(DiamondEnvRepo.java:93)    at com.taobao.tddl.config.diamond.DiamondConfigDataHandler.doInit(DiamondConfigDataHandler.java:50)    at com.taobao.tddl.common.model.lifecycle.AbstractLifecycle.init(AbstractLifecycle.java:32)    at com.taobao.tddl.config.impl.PreheatDataHandler.doInit(PreheatDataHandler.java:37)    at com.taobao.tddl.common.model.lifecycle.AbstractLifecycle.init(AbstractLifecycle.java:32)    at com.taobao.tddl.config.impl.UnitConfigDataHandlerFactory.getConfigDataHandler(UnitConfigDataHandlerFactory.java:66)    at com.taobao.tddl.config.impl.UnitConfigDataHandlerFactory.getConfigDataHandler(UnitConfigDataHandlerFactory.java:52)    at com.taobao.tddl.matrix.jdbc.TDataSource.loadConnectionProperties(TDataSource.java:197)    at com.taobao.tddl.matrix.jdbc.TDataSource.doInit(TDataSource.java:127)    at com.taobao.tddl.common.model.lifecycle.AbstractLifecycle.init(AbstractLifecycle.java:32)    ...    ...    at javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:829)    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)    at java.lang.reflect.Method.invoke(Method.java:498)    at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:357)    at sun.rmi.transport.Transport$1.run(Transport.java:200)    at sun.rmi.transport.Transport$1.run(Transport.java:197)    at java.security.AccessController.doPrivileged(Native Method)    at sun.rmi.transport.Transport.serviceCall(Transport.java:196)    at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:568)    at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:826)    at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:683)    at java.security.AccessController.doPrivileged(Native Method)    at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:682)    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)    at java.lang.Thread.run(Thread.java:748)Caused by: java.lang.NullPointerException    at java.lang.Class.forName0(Native Method)    at java.lang.Class.forName(Class.java:264)    at com.taobao.middleware.logger.slf4j.Slf4jLogger.&lt;init&gt;(Slf4jLogger.java:46)    ... 115 more</code></pre><p>通过Debug，发现问题出在这里：</p><p>从上图可以看到，tddl 底层的中间件代码中，日志代理类只可以是 ch.qos.logback.classic.Logger 和 org.slf4j.impl.Log4jLoggerAdapter, 而我们的代理类却默认初始化成了 org.apache.logging.slf4j.Log4jLogger, 为什么会出现这个情况呢？猜测 log4j-slf4j-impl 在初始化的时候是优先于 slf4j-log4j12 的 ，把 org.apache.logging.slf4j.Log4jLogger 所在的如下依赖从 pom 中去掉看看。</p><p>结果初始化时恢复到了 org.slf4j.impl.Log4jLoggerAdapter 了，问题得到解决。此时，比较下 log4j-slf4j-impl 和 slf4j-log4j12 的区别，我们可以得出以下结论：</p><p>log4j-slf4j-impl 是 slf4j 和 logj4 2 的 Binding，而 slf4j-log4j12 是 slf4j 和 log4j 1.2 的 Binding，com.taobao.middleware 这项服务底层硬编码只支持 slf4j-log4j12 和 logback ，并不支持 log4j2，尽管 log4j2 已经用于很多大型项目了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;一次日志框架排坑记录&quot;&gt;&lt;a href=&quot;#一次日志框架排坑记录&quot; class=&quot;headerlink&quot; title=&quot;一次日志框架排坑记录&quot;&gt;&lt;/a&gt;一次日志框架排坑记录&lt;/h1&gt;&lt;p&gt;一个Java项目中，由于引入的依赖可能使用各种不同的日志框架，并且各个模块的</summary>
+      
+    
+    
+    
+    <category term="IT" scheme="https://www.slackideas.com/categories/IT/"/>
+    
+    
+    <category term="java" scheme="https://www.slackideas.com/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Recommendation For Two Screenshot Software On Mac</title>
+    <link href="https://www.slackideas.com/2018/02/23/Recommendation-For-Two-Screenshot-Software-On-Mac/"/>
+    <id>https://www.slackideas.com/2018/02/23/Recommendation-For-Two-Screenshot-Software-On-Mac/</id>
+    <published>2018-02-23T12:58:52.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="ScreenShot-Plus"><a href="#ScreenShot-Plus" class="headerlink" title="ScreenShot Plus"></a>ScreenShot Plus</h1><p><em>国区已下线 2022.03.06</em><br>国区售价￥12，支持全屏幕、定时捕捉、特定窗口、拖拽窗口。</p><p><a href="https://apps.apple.com/cn/app/screenshot-plus/id653900948?mt=12">App Store链接</a></p><h1 id="Xnip-支持滚屏的截图工具"><a href="#Xnip-支持滚屏的截图工具" class="headerlink" title="Xnip - 支持滚屏的截图工具"></a>Xnip - 支持滚屏的截图工具</h1><p>最大特色是支持滚屏，即长图截屏。</p><p>收费版可去除图片外框上的水印，订阅价：￥12/年。</p><p><a href="https://itunes.apple.com/cn/app/xnip-%E6%96%B9%E4%BE%BF%E5%A5%BD%E7%94%A8%E7%9A%84%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/id1221250572?mt=12">App Store链接</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;ScreenShot-Plus&quot;&gt;&lt;a href=&quot;#ScreenShot-Plus&quot; class=&quot;headerlink&quot; title=&quot;ScreenShot Plus&quot;&gt;&lt;/a&gt;ScreenShot Plus&lt;/h1&gt;&lt;p&gt;&lt;em&gt;国区已下线 2022.03.</summary>
+      
+    
+    
+    
+    <category term="IT" scheme="https://www.slackideas.com/categories/IT/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Blockchain Notes: Part 2</title>
+    <link href="https://www.slackideas.com/2018/01/23/Blockchain-Notes-Part-2/"/>
+    <id>https://www.slackideas.com/2018/01/23/Blockchain-Notes-Part-2/</id>
+    <published>2018-01-23T13:24:47.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="共识机制的引入"><a href="#共识机制的引入" class="headerlink" title="共识机制的引入"></a>共识机制的引入</h1><p>在了解共识机制之前，先来看两个古老的引入问题：类两军问题、拜占庭将军问题。</p><p>类两军问题：</p><blockquote><p>古代有两个相距很远的军队要传递信息，<br>蓝军派遣一个信使去跟红军说：有本事把意大利炮拿过来！<br>红军收到后回复蓝军说：收到指令。<br>蓝军要给出确认答复：知道你收到指令了！<br>红军继续给出答复：知道你知道我知道指令了！</p></blockquote><pre><code>拜占庭将军问题：拜占庭罗马帝国在军事行动中，采取将军投票策略来决定进攻还是撤退，即如果多数人决定进攻，就整体确定进攻策略。但是军队中如果有奸细（将军可能反水、传令官可能误传），如何保证最后投票真实反映忠诚将军的决策？拜占庭帝国周围有10个小国，它们饱受拜占庭欺压，却只有同一时间有6个以上国家进攻才有可能打败拜占庭帝国，非则一定战败。难点在于：古时候军队之间的通信完全依赖于人，如果军队中有奸细，无论是将军反水还是传令官误传，都会是另外9个国家收到假消息，从而造成作战失败。如果你是国王，该如何判断一定会有另外5个以上国家与你并肩作战？毕竟一不小心，就亡国了。由于类似于以上这样的问题存在，共识的必要性浮现出来。</code></pre><h1 id="九种共识机制"><a href="#九种共识机制" class="headerlink" title="九种共识机制"></a>九种共识机制</h1><p>区块链上的共识机制有多种，但任何一种都不是完美无缺，或者说适用于所有应用场景的。</p><h2 id="工作量证明"><a href="#工作量证明" class="headerlink" title="工作量证明"></a>工作量证明</h2><p>工作量证明（Proof of Work，简称PoW）通常只能从结果证明，因为监测工作过程通常是繁琐且低效的。</p><p>比特币在区块的生成过程种使用了PoW机制，一个符合要求的区块哈希值由N个前导零构成，零的个数取决于网络的难度值。要得到合理的区块哈希值需要经过大量的尝试计算，计算时间取决于机器的哈希运算速度。当某个节点提供出一个合理的区块哈希值，说明该节点确实经过了大量的尝试计算，但是并不能得出计算次数，因为寻找合理的哈希值是一个概率事件。当节点拥有占全网n%的算力时，该节点既有n%的概率找到区块哈希值。</p><p>PoW依赖机器进行数学运算来获取记账权，资源消耗大、共识机制高、可监管性弱，同时每次达成共识需要全网共同参与运算，性能效率比较低，容错性方便允许全网50%节点出错。</p><p>PoW的优点：完全去中心化，节点自由进出。</p><p>PoW的缺点：目前比特币已经吸引全球大部分的算力，其他再使用PoW共识机制的区块链应用很难获得相同的算力来保障自身安全；挖矿造成大量的资源浪费；共识达成的周期较长。</p><p>使用PoW的项目有：比特币、以太坊的前三个阶段（Frontier前沿、Homestead家园、Metropolis大都会）。以太坊的第四个阶段 Serenity宁静 将采用权益证明机制。</p><h2 id="权益证明"><a href="#权益证明" class="headerlink" title="权益证明"></a>权益证明</h2><p>权益证明（Proof of Stake，简称PoS）由Quantum<br>Mechanic2011年在比特币论坛讲座上首先提出，后经Peercoin（点点币）和NXT（未来币）以不同思路实现。</p><p>PoS的主要理念是节点记账权的获得难度与节点持有的权益成反比，相比PoW，其在一定程度上减少了数学运算带来的资源消耗，性能也得到了相应的提升，但依然是基于哈希运算，竞争获取记账权的方式，可监管性弱。该共识机制的容错性和PoW相同。它是PoW的一种升级，根据每个节点所占代币的比例和时间，等比例地降低挖矿难度，从而加快找到随机数的速度。</p><p>在PoW中，一个用户可能拿1000美元来购买计算机，并加入网络来挖矿以此产生新区块，从而得到奖励。而在PoS中，用户可以拿1000美元购买等价的代币，并把这些代币当作押金放入PoS机制中，这样用户就有机会产生新区块而得到奖励。</p><p>总体而言，这个系统中存在一个持币人的集合，他们把手中的代币放入PoS机制中，这样他们就变成验证者。比如对区块链最前面的一个区块而言，PoS算法在验证者中随机选择一个（选择验证者的权重依据他们投入的代币量，比如一个投入押金为1W代币的验证者被选择的概率是一个投入1K代币验证者的10倍），给他权利产生下一个区块。如果在一定时间内，这个验证者没有产生一个区块，则选出第二个验证者代替产生新区块。与PoW一样，PoS以最长的链为准。</p><p>随着规模经济（指扩大生产规模引起经济效益增加的现象）的消失，中心化所带来的风险减小了。价值1000万美元的代币带来的回报不多不少，是价值100万美元代币的10倍，不会有人因为负担得起大规模生产工具而得不到成比例的额外回报。</p><p>PoS的优点：在一定程度上缩短了共识达成的时间；不再需要大量消耗能源去挖矿。</p><p>PoS的缺点：还是需要挖矿，本质上没有解决商业应用的痛点；所有的确认都只是一个概率上的表达，而不是一个确定性的事情，理论上有可能存在其他攻击影响，例如以太坊的DAO攻击事件造成以太坊硬分叉，而ETC随之出现，事实上证明了此次硬分叉的失败。</p><h2 id="股份授权证明"><a href="#股份授权证明" class="headerlink" title="股份授权证明"></a>股份授权证明</h2><p>BitShares（比特股）社区首先提出了股份授权证明（简称DPoS）机制，它与PoS的主要区别在于节点选举若干代理人，由代理人验证和记账，但其合规监管、性能、资源消耗和容错性与PoS相似。类似于董事会投票，持币者投出一定数量的节点，进行代理验证和记账。</p><p>DPoS的工作原理如下：每个股东按其持股比例拥有相应的影响力，51%股东投票的结果将是不可逆且有约束力的，其挑战是通过及时而高效的方法达到“51%批准”；</p><p>为了达到这个目标，每个股东可以将其投票授予一名代表。获票数最多的前100位代表按既定时间表轮流产生区块。每位代表分配到一个时间段来生产区块。</p><p>所有的代表将收到等同于一个平均水平的区块所含交易费的10%作为报酬。如果一个平均水平的区块用100股作为交易费，一位代表将获得一股作为报酬。</p><p>网络延迟有可能使某些代表没能及时广播他们的区块，而这将导致区块链分叉。然而，这不太可能发生，因为制造该区块的代表可以与制造该区块前后的区块的代表建立直接连接。建立这种与你之后的代表（也许也包括其后的那名代表）的直接连接是为了确保你能得到报酬。</p><p>DPoS的投票模式可以每30秒产生一个新区块，并且在正常的网络条件下，区块链分叉的可能性极其小，即使发生也可以在几分钟内得到解决。执行该模式的基本步骤如下：</p><p>成为代表。成为一位代表，你必须在网络上注册你的公钥，并获得一个32位的特有标识符。该标识符会被每笔交易数据的“头部”引用。</p><p>授权投票。每个钱包有一个参数设置窗口，在该窗口里用户可以选择一位或更多的代表，并将其分级。一经设定，用户所做的每笔交易将把选票从“输入代表”转移至“输出代表”。一般情况下，用户不会创建专门以投票为目的的交易，因为那将耗费他们一笔交易费。但是在紧急情况下，某些用户可能觉得通过支付费用这一更积极的方式来改变他们的投票是值得的。</p><p>保持代表忠诚。每个钱包将显示一个状态指示器，让用户知道他们的代表表现如何。如果他们错过了太多的区块，那么系统将会推荐用户更换一位新的代表。如果任何代表被发现签发了一个无效的区块，那么所有标准钱包将在每个钱包进行更多交易前要求选出一位新代表。</p><p>抵抗攻击。在抵抗攻击上，前100位代表所获得的权利是相同的，即每位代表都有一项平等的投票权，因此，无法通过获得超过1%的选票而将权利集中到单一代表上。由于只有100位代表，不难想象一个攻击者可以对每位轮到其生产区块的代表依次进行拒绝服务攻击。幸运的是，由于每位代表的标识是其公钥而非IP地址，这种特定攻击的威胁很容易被减轻。这将使确定DDoS（分布式拒绝服务）攻击目标更为困难。而代表之间的潜在连接将使妨碍他们生产区块变得更为困难。</p><p>DPoS的优点：大幅缩小参与验证和记账节点的数量，可以达到秒级的共识验证。</p><p>DPoS的缺点：整个共识机制还是依赖于代币，而很多商业应用是不需要代币的。</p><h2 id="投注共识"><a href="#投注共识" class="headerlink" title="投注共识"></a>投注共识</h2><p>投注共识是以太坊下一代的共识机制Casper（鬼马小精灵）引入的一个全新概念，属于PoS。Casper的共识是按区块达成的，而不像PoS那样按链达成。</p><p>为了防止验证人在不同的世界中提供不同的投注，我们还有一个简单严格的条款：如果你两次的投注序号一样，或者说你提交了一个无法让Casper依照合约处理的投注，你将失去所有保证金。从这一点我们可以看出，Casper与传统的PoS不同的是，Casper有惩罚机制，这样非法节点通过恶意攻击网络不仅得不到交易费，而且还面临着保证金被没收的风险。</p><p>Casper协议下的验证人需要完成出块和投注两个活动。具体如下：</p><p>出块是一个独立于其他所有时间而发生的过程，验证人收集交易，当轮到他们的出块时间时，他们就制造一个区块，并签名，然后发送到网络上。投注的过程更为复杂一些，目前Casper默认的验证人策略被设计为模仿传统的拜占庭容错共识：观察其他的验证人如何投注，取33%处的值，向0或1进一步移动。</p><p>而客户端确认当前状态的过程是这样的：一开始先下载所有的区块和投注，然后用上面的算法来形成自己的意见，但是不公布意见；它只是简单地按顺序在每个高度进行观察，如果一个区块的概率高于0.5就处理它，否则就跳过它。在处理所有的区块之后，所得到的状态就可以显示为区块链的“当前状态”。客户端还可以给出对于“最终确定”的主观看法：如果高度k之前的每个区块形成的意见高于99.999%或者低于0.001%，那么客户端可以认为前k个区块已经最终确定。</p><h2 id="瑞波共识机制"><a href="#瑞波共识机制" class="headerlink" title="瑞波共识机制"></a>瑞波共识机制</h2><p>瑞波共识算法使一组节点能够基于特殊节点列表形成共识。初始特殊节点列表就像一个俱乐部，要接纳一个新成员，必须由该俱乐部51%的会员投票通过。共识遵循这些核心成员的“51%权利”，外部人员则没有影响力。由于该俱乐部由中心化开始，它将一直是中心化的，而如果它开始腐化，股东们什么也做不了。与比特币及Peercoin一样，瑞波系统将股东们与其投票权隔开，因此，它比其他系统更中心化。</p><h2 id="Pool验证池"><a href="#Pool验证池" class="headerlink" title="Pool验证池"></a>Pool验证池</h2><p>基于传统的分布式一致性技术以及数据验证机制，Pool（联营）验证池是目前行业内大范围使用的共识机制。它的优缺点如下：</p><p>优点：不需要代币也可以工作，在成熟的分布式一致性算法（Paxos、Raft）的基础上，实现秒级共识验证。</p><p>缺点：去中心化程度不如比特币，更适合多方参与的多中心商业模式。</p><h2 id="实用拜占庭容错"><a href="#实用拜占庭容错" class="headerlink" title="实用拜占庭容错"></a>实用拜占庭容错</h2><p>在分布式计算上，不同的计算机通过信息交换尝试达成共识，但有时候，系统中的协调计算机或者成员计算机可能因系统错误，而交换错误信息，以致影响最终的系统一致性。对于拜占庭将军问题，若根据错误计算机的数量，寻找可能的解决办法，这其实无法找到一个绝对的答案，只可以用来验证一个机制的有效程度。</p><p>而拜占庭将军问题的可能解决方法为：在N≥3F+1的情况下，一致性是可能实现的（N为计算机总数，F为有问题的计算机总数）。信息在计算机间互相交换后，各计算机列出所有得到的信息，以大多数的结果作为解决办法。</p><p>最早由卡斯特罗和利斯科夫在1999年提出的使用拜占庭容错（PBFT）是第一个得到广泛应用的拜占庭算法。只要系统中有2/3的节点是正常工作的，就可以保证一致性。</p><p>使用拜占庭容错算法的总体过程如下：客户端向主节点发送请求调用服务操作，如“”，这里客户端c请求执行操作o，时间戳t用来保证客户端请求只会执行一次。每个由副本节点发给客户端的消息都包含了当前的视图编号，使得客户端能够追踪视图编号，从而进一步推算出当前主节点的编号。客户端通过点对点消息向它自己认为的主节点发送请求，然后主节点自动将该请求向所有备份节点进行广播。</p><p>视图编号是连续编号的整数，主节点由公式p=v mod |R|计算得到，这里v是视图编号，p是副本编号，|R|是副本集合的个数。</p><p>副本发给客户单的响应为“”，v是视图编号，t是时间戳，i是副本的编号，r是请求执行的结果。</p><p>主节点通过广播将请求发送给其他副本，然后就开始执行三个阶段的任务。</p><p>预准备阶段。主节点分配一个序列号n给收到的请求，然后向所有备份节点群发预准备消息，预准备消息格式为“&lt;, m&gt;”，这里v是视图编号，m是客户端发送的请求消息，d是请求消息m的摘要。</p><p>准备阶段。如果备份节点i接受了预准备消息，则进入准备阶段。在准备的同时，该节点向所有副本节点发送准备消息“”，并且将预准备消息和准备消息写入自己的消息日志。</p><p>确认阶段。当“(m, v, n, i)”条件为真的时候，副本i将“”向其他副本节点广播，于是就进入了确认阶段。所有副本都执行请求并将结果发回客户端。客户端需要等待不同副本节点发回相同的结果，作为整个操作的最终结果。</p><p>如果客户端没有在有限时间内收到回复，请求将向所有副本节点进行广播；<br>如果该请求已经在副本节点处理过了，副本就向客户端重发一遍执行结果；<br>如果请求没有在副本节点处理过，该副本节点将把请求转发给主节点；<br>如果主节点没有将该请求进行广播，那么就认为主节点失效；<br>如果有足够多的副本节点认为主节点失效，则会触发一次视图变更。</p><p>图2-85展示了在没有发生主节点失效的情况下算法的正常执行流程，其中副本0是主节点，副本3是失效节点，而c是客户端。</p><p>使用拜占庭容错机制是一种采用“许可投票、少数服从多数”来选举领导者并进行记账的共识机制，该共识机制允许拜占庭容错，允许强监督节点参与，具备权限分级能力，性能更高，耗能更低，而且每轮记账都会由全网节点共同选举领导者，允许33%的节点作恶，容错率为33%。</p><p>由于特别适合联盟链的应用场景，实用拜占庭容错机制及其改进算法为目前使用最多的联盟链共识算法，其改进算法为目前使用最多的联盟链共识算法，其改进算法在以下方面进行了调整：修改底层网络拓扑的要求，使用P2P网络；可以动态地调整节点数量；减少协议使用的消息数量。</p><h2 id="授权拜占庭容错"><a href="#授权拜占庭容错" class="headerlink" title="授权拜占庭容错"></a>授权拜占庭容错</h2><p>2016年4月，小蚁公司发布共识算法白皮书，描述了一种通用共识机制——授权拜占庭容错，提出了一种改进的拜占庭容错算法，使其能够适用于区块链系统。授权拜占庭容错算法在使用拜占庭容错算法的基础上，进行了以下改进：</p><p>将C/S架构的请求响应模式改进为适合P2P网络的对等节点模式；<br>将静态的共识参与节点改进为可动态进入、退出的共识参与节点；<br>为共识参与节点的产生设计了一套基于持有权益比例的投票机制，通过投票决定共识参与节点（记账节点）；<br>在区块链中引入数字证书，解决了投票中对记账节点真实身份的认证问题。<br>授权拜占庭容错机制的优点：专业化的记账人；可以容忍任何类型的错误；记账由多人协同完成；每一个区块都有最终性，不会分叉；算法的可靠性有严格的数字证明。</p><p>授权拜占庭容错机制的缺点：当1/3及以上的记账人停止工作后，系统将无法提供服务；当1/3及以上的记账人联合作恶，且其他所有的记账人被恰好分割为两个网络孤岛时，恶意记账人可以使系统出现分叉，但是会留下密码学证据。</p><p>总而言之，授权拜占庭容错机制最核心的一点，就是最大限度地确保系统的最终性，使区块链能够适用于真正的金融应用场景。</p><h2 id="Paxos算法"><a href="#Paxos算法" class="headerlink" title="Paxos算法"></a>Paxos算法</h2><p>这是一种传统的分布式一致性算法，是一种基于选举领导者的共识机制。领导者节点拥有绝对权限，并允许强监督节点参与，其性能高，资源消耗低。所有节点一般有线下准入机制，但选举过程中不允许有作恶节点，不具备容错性。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;共识机制的引入&quot;&gt;&lt;a href=&quot;#共识机制的引入&quot; class=&quot;headerlink&quot; title=&quot;共识机制的引入&quot;&gt;&lt;/a&gt;共识机制的引入&lt;/h1&gt;&lt;p&gt;在了解共识机制之前，先来看两个古老的引入问题：类两军问题、拜占庭将军问题。&lt;/p&gt;
+&lt;p&gt;类两军问题</summary>
+      
+    
+    
+    
+    <category term="Other" scheme="https://www.slackideas.com/categories/Other/"/>
+    
+    
+    <category term="blockchain" scheme="https://www.slackideas.com/tags/blockchain/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Blockchain Notes: Part 1</title>
+    <link href="https://www.slackideas.com/2018/01/22/Blockchain-Notes-Part-1/"/>
+    <id>https://www.slackideas.com/2018/01/22/Blockchain-Notes-Part-1/</id>
+    <published>2018-01-22T13:23:19.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="区块链的模型架构"><a href="#区块链的模型架构" class="headerlink" title="区块链的模型架构"></a>区块链的模型架构</h1><p>区块链基础架构分6层，包括：数据层、网络层、共识层、激励层、合约层、应用层。每层分别完成一个核心功能，各层之间互相配合，实现一个去中心化的信任机制。</p><p>数据层：主要描述区块链技术的物理形式。系统设计人员首先建立一个起始节点——创世区块，之后在同样规则下创建的规则相同的区块通过一个链式结构依次相连组成一条主链条。随着运行时间越来越长，新的区块通过验证后不断被添加到主链上，主链也不断增长。时间戳技术保证每个区块顺序相连，哈希函数保证交易信息不被篡改。</p><p>网络层：实现区块链网络节点之间的信息交流。区块链网络本质上是P2P网络，每个节点既接收信息，也产生信息，节点间通过维护一个共同的区块链来保护通信。区块链网络中，每个节点都可以创造新的区块，在新区块被创造后会以广播的形式通知其他节点，其他节点会对这个区块进行验证，当全区块链网络中超过51%的用户验证通过后，这个新区块就可以被添加到主链上。</p><p>共识层：共识层能让高度分散的节点在去中心化的系统中高效地针对区块数据的有效性达成共识。区块链中比价常用的共识机制主要有：工作量证明、权益证明和股份授权证明三种。</p><p>激励层：提供一定的激励措施，鼓励节点参与区块链的安全验证工作。以比特币为例，奖励机制有两种。在比特币总量达到2100万枚之前，奖励机制有：新区块产生后系统奖励的比特币，每笔交易扣除的比特币（即手续费）。当比特币总量达到2100万枚时，新产生区块将不再生成比特币，此时奖励机制主要是每笔交易扣除的手续费。</p><p>合约层：主要指各种脚本代码、算法机制及智能合约等。以比特币为例，比特币是一种可编程火币，合约层封装的脚本中规定了比特币的交易方式和过程中涉及到的种种细节。</p><p>应用层：封装区块链的各种应用场景和案例。比如基于区块链的跨境支付平台OKLink，以及各种其他五花八门的应用。</p><h1 id="区块链的基本类型"><a href="#区块链的基本类型" class="headerlink" title="区块链的基本类型"></a>区块链的基本类型</h1><p>公有链：公有链是指全世界任何人都可读取、任何人都能发送交易且交易能获得确认，任何人都能参与共识过程的区块链——共识过程决定哪个区块可被添加到区块链中，同时明确当前状态。它有几个特点：</p><p>保护用户免受开发者影响<br>访问门槛低<br>所有数据默认公开</p><p>私有链：私有链是指其写入权限尽在一个组织手里的区块链，目的是对读取权限或者对外开放权限进行限制。它有以下几个特点：</p><p>交易速度非常快：私有链中少量节点具有很高信任度，并不需要每个节点都来验证一个交易，因而交易速度比公有链快很多。<br>为隐私提供更好保障。私有链的数据并不对拥有网络链接的所有人公开。<br>交易成本大幅降低甚至为零：如果一个实体机构控制和处理所有的交易，它就不再需要为工作收取费用。<br>有助于保护其基本的产品不被破坏。银行和传统金融机构使用私有链可以保证其既有利益，已致原有的生态不被破坏。</p><p>联盟链：共识过程受到预选节点控制的区块链。比如，对由15个金融机构组成的共同体而言，每个机构都运行着一个节点，为了使每个区块生效需要获得其中半数以上也就是8家机构的确认。区块链可能会允许每个人读取，也可能会受限于参与者走混合路线。联盟链可视为“部分去中心化”，区块链项目R3 CEV就可以认为是联盟链的一种形态。</p><p>其他分类说法：许可链指每个节点都需要许可才能加入的区块链系统，私有链和联盟链都属于许可链。随着区块链技术的日益发展，区块链的技术架构不再简单地划分为私有链和公有链，它们之间的界限越来越模糊，于是复杂链和混合链的概念逐渐被提出。</p><h1 id="区块链的发展脉络"><a href="#区块链的发展脉络" class="headerlink" title="区块链的发展脉络"></a>区块链的发展脉络</h1><p>根据区块链科学研究创始人梅兰妮·斯万（Melanie Swan）的观点，区块链技术发展分为三个节点或领域：区块链1.0 / 2.0 / 3.0</p><p>区块链 1.0: 以比特币为代表的可编程货币。它更多是指数字货币领域的创新，如货币转移、兑付和支付系统等。</p><p>区块链2.0: 基于区块链的可编程金融。它更多涉及一些合约方面的创新，特别是商业合同以及交易方面的创新，比如股票、证券、期货、贷款、清算结算、所谓的智能合约等。</p><p>区块链3.0: 区块链在其他行业的应用。更多对应人类组织形式的变革，包括健康、科学、文化和基于区块链的司法、投票等。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;区块链的模型架构&quot;&gt;&lt;a href=&quot;#区块链的模型架构&quot; class=&quot;headerlink&quot; title=&quot;区块链的模型架构&quot;&gt;&lt;/a&gt;区块链的模型架构&lt;/h1&gt;&lt;p&gt;区块链基础架构分6层，包括：数据层、网络层、共识层、激励层、合约层、应用层。每层分别完成一个</summary>
+      
+    
+    
+    
+    <category term="Other" scheme="https://www.slackideas.com/categories/Other/"/>
+    
+    
+    <category term="blockchain" scheme="https://www.slackideas.com/tags/blockchain/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Blockchain Notes: Origin</title>
+    <link href="https://www.slackideas.com/2018/01/21/Blockchain-Notes-Origin/"/>
+    <id>https://www.slackideas.com/2018/01/21/Blockchain-Notes-Origin/</id>
+    <published>2018-01-21T13:21:24.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<p>区块链是人类记账历史走到现在，科技给我们的最新选择，是账本演变史上最新的一个高可行性的形态。</p><h1 id="记账需求"><a href="#记账需求" class="headerlink" title="记账需求"></a>记账需求</h1><p>遥远的旧石器时代，记账全靠死记硬背和心算。随着生产力越来越高，单靠脑袋计数已经满足不了，于是，记录成了必须要改善的事情，产生了简单刻画和直观绘图的方法。</p><p>后来，人们发现绘图和刻画这些费力又占地方的记录方式又跟不上需求了，于是开始了结绳记事。结绳记事对记录对象、数量变化、最终结果都形成了确定的表现形式，几乎可称作账本的起源。</p><p>接下来，到了流传相对广泛的复式记账法。中国的复式记账法起源于明末清初的龙门帐，之后又发展成四脚账。而西方的则最早出现在12-13世纪。然后是19世纪，会计的诞生体现了信息技术爆炸后人们对于账本安全的担忧。而且在21世纪的今天，尽管信息化、数据化、智能化相当发达，仍然存在信息不对成及信用问题。</p><p>如何才能保证一个可公开的账户是绝对安全可靠的呢？</p><h1 id="信任危机"><a href="#信任危机" class="headerlink" title="信任危机"></a>信任危机</h1><p>互联网善于处理信息分享，却不能解决价值转移。</p><p>如今的中心化机构通过政府或集团公司的背书，把所有价值转移的计算都放在一个中心服务器上进行处理，其中一定会涉及人的参与，而人的“有限理论”和“机会主义行为”往往会使整个系统变得不那么可信。</p><p>区块链如何拯救信任危机：区块链是比特币金融系统中的核心技术，它的实质是一个不断增长的分布式结算数据库，能完美解决信息系统中的信任危机。</p><p>区块链技术可以很好地满足公信力需求，并把公信力抽象出来作为一个独立的而不是由政府或第三方组织掌控的存在，形成政府、大众、区块链与公信力互相监督的“公信新格局”。信任是建立在区块链上的，而非由单个组织掌控， 从而公信力可以被多方交叉验证与监督。</p><h1 id="区块链的公信力"><a href="#区块链的公信力" class="headerlink" title="区块链的公信力"></a>区块链的公信力</h1><p>区块链是分布式的，在网络上有许多独立节点，每个节点都有一份备份信息，每个有授权的人都可以从任意一个节点下载全部的信息，同时，区块链公信力网络也是不可篡改的，任何节点企图更改信息都会被其他节点发现，而更改的节点不会被确认，就会立刻丧失公信力。</p><p>在区块链公信力模型中，区块链不制定政策，它只是一个公证人角色，是政府建立和执行政策的工具。区块链的作用是帮助政府更快速和准确地让政策被全民接受与认可，同时，因为区块链是一个不变的、可以被复制的数据库，政府的政策就变得公开和透明。</p><h1 id="比特币起源"><a href="#比特币起源" class="headerlink" title="比特币起源"></a>比特币起源</h1><p>中本聪 - 《比特币：一种点对点的电子现金系统》 2008 讲述了比特币的几个基本原则：</p><p>一个纯粹的点对点电子现金系统，使在线支付能够直接由一方发起并支付给另一人，中间不需要通过任何金融机构。</p><p>不需要授信的第三方支持就能防止双重支付，点对点的网络环境是解决双重支付的一种方案。</p><p>对全部交易加上时间戳，并将他们并入一个不断延展的基于哈希算法的工作量证明的链条作为交易记录。除非重新完成全部的工作量证明，形成的交易记录将不可更改。</p><p>最长的链条不仅将作为被观察的事件序列的证明，而且将被视为来自CPU（中央处理器）的计算能力最大的池。只要大多数CPU的计算能力不被合作攻击的节点所控制，那么就会生成最长的、长度超过攻击者的链条。</p><p>这个系统本身需要的基础设施非常少，节点尽最大努力在全网传播信息即可，节点可以随时离开和重新加入网络，并将最长的工作量证明作为该节点离线期间发生的交易的证明。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;区块链是人类记账历史走到现在，科技给我们的最新选择，是账本演变史上最新的一个高可行性的形态。&lt;/p&gt;
+&lt;h1 id=&quot;记账需求&quot;&gt;&lt;a href=&quot;#记账需求&quot; class=&quot;headerlink&quot; title=&quot;记账需求&quot;&gt;&lt;/a&gt;记账需求&lt;/h1&gt;&lt;p&gt;遥远的旧石器时代</summary>
+      
+    
+    
+    
+    <category term="Other" scheme="https://www.slackideas.com/categories/Other/"/>
+    
+    
+    <category term="blockchain" scheme="https://www.slackideas.com/tags/blockchain/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Collect 1688 Product Information Using Scrapy And Lazy Loading</title>
+    <link href="https://www.slackideas.com/2017/12/19/Collect-1688-Product-Information-Using-Scrapy-And-Lazy-Loading/"/>
+    <id>https://www.slackideas.com/2017/12/19/Collect-1688-Product-Information-Using-Scrapy-And-Lazy-Loading/</id>
+    <published>2017-12-19T13:32:16.000Z</published>
+    <updated>2022-04-16T11:47:46.722Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="使用scrapy懒加载爬取1688商品图片"><a href="#使用scrapy懒加载爬取1688商品图片" class="headerlink" title="使用scrapy懒加载爬取1688商品图片"></a>使用scrapy懒加载爬取1688商品图片</h1><p>说起 scrapy, 很多人应该都不陌生：它是基于 python 的爬虫框架，编程模型十分简单，极易上手，官方文档在此。</p><p>我用它爬取过节目音效文件和一些小网站，都十分简单，后来逛淘宝发现其详情页商品图片使用了懒加载技术：只有在浏览器中纵向滚动条滚动到指定的位置时，页面的图片元素才会被动态加载。注意，在加载之前，图片元素不会出现在页面上。它实质上是由用户出发滚动条事件后，JavaScript 自动生成的。</p><p>这样的话，使用最原始的解析网页元素的方式不会取得效果，必须想个方法让 scrapy 可以运行 JavaScript。想到了很久以前一个网站自动化测试工具 selenium, 它让我们能够控制浏览器做一些比如滑动滚动条之类的人工操作。</p><p>因此，使用 selenium 打开页面并滑动至页面底部，这样商品详情中的图片就会全部加载出来，然后使用 selector/xpath 选取响应的页面元素，并添加 ImagePipeline，最终达到下载商品详情页图片的效果。以下是用到的关键代码。</p><pre><code class="python"># 以下代码使用 python 3.6 及 scrapy 1.4.0class ProductSpider(scrapy.Spider):    name = &quot;Product1688&quot;    start_urls = []    def __init__(self, **kwargs):        # 加载 chrome driver, 它的下载地址位于 https://sites.google.com/a/chromium.org/chromedriver/        super().__init__(**kwargs)        self.driver = webdriver.Chrome(&#39;/path/to/your/chromedriver&#39;)        self.wait = WebDriverWait(self.driver, 10)    def parse(self, response):        self.driver.get(response.url)        # 打开页面后，滑动至页面底部        self.scroll_until_loaded()        # 以 xpath 寻找商品名（标题 )        title = self.driver.find_element_by_xpath(&#39;//*[@id=&quot;mod-detail-title&quot;]/h1&#39;)        # 以 xpath 寻找商品主图片        main_images_elements = self.driver.find_elements_by_xpath(&#39;//*[@id=&quot;dt-tab&quot;]/div/ul/li/div/a/img&#39;)        # 以 xpath 寻找商品详情图片        detail_images_elements = \            self.driver.find_elements_by_xpath(&#39;//*[@id=&quot;desc-lazyload-container&quot;]/p/span/strong/img&#39;)        item = ProductItem()        main_images = []        detail_images = []        # 获取商品主图的网络地址，针对商品主图片尺寸的特殊处理        for image in main_images_elements:            main_images.append(image.get_attribute(&#39;src&#39;).replace(&#39;60x60.&#39;, &#39;&#39;))        # 获取商品详情图片的网络地址        for image in detail_images_elements:            detail_images.append(image.get_attribute(&#39;src&#39;))        item[&#39;title&#39;] = title.text        item[&#39;main_image_count&#39;] = len(main_images)        item[&#39;image_urls&#39;] = main_images + detail_images        return item    # 模拟浏览器页面滚到页面底部的行为    def scroll_until_loaded(self):        check_height = self.driver.execute_script(&quot;return document.body.scrollHeight;&quot;)        while True:            self.driver.execute_script(&quot;window.scrollTo(0, document.body.scrollHeight);&quot;)            try:                self.wait.until(                    lambda driver: self.driver.execute_script(&quot;return document.body.scrollHeight;&quot;) &gt; check_height)                check_height = self.driver.execute_script(&quot;return document.body.scrollHeight;&quot;)            except TimeoutException:                break</code></pre><p>随后添加 ImagePipeline 的代码由于网络上资源众多，就不赘述了。以上代码仅供参考，视具体需求可会有变动，能满足需求就好。</p><p>最后附上<a href="https://github.com/caiski/crawlers"> Repo 地址</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;使用scrapy懒加载爬取1688商品图片&quot;&gt;&lt;a href=&quot;#使用scrapy懒加载爬取1688商品图片&quot; class=&quot;headerlink&quot; title=&quot;使用scrapy懒加载爬取1688商品图片&quot;&gt;&lt;/a&gt;使用scrapy懒加载爬取1688商品图片&lt;/</summary>
+      
+    
+    
+    
+    <category term="IT" scheme="https://www.slackideas.com/categories/IT/"/>
+    
+    
+    <category term="python" scheme="https://www.slackideas.com/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Troubleshooting Case On Java 100 Percent CPU Usage</title>
+    <link href="https://www.slackideas.com/2017/08/10/A-Troubleshooting-Case-On-Java-100-Percent-CPU-Usage/"/>
+    <id>https://www.slackideas.com/2017/08/10/A-Troubleshooting-Case-On-Java-100-Percent-CPU-Usage/</id>
+    <published>2017-08-10T04:14:17.000Z</published>
+    <updated>2022-04-16T11:47:46.718Z</updated>
+    
+    <content type="html"><![CDATA[<p>早上遭遇一起”线上 Java Web 占用 100%CPU”的紧急事件, 将排查处理过程记录如下。</p><ul><li>仅有的三台机器同时报警, 初步估计是个普遍性问题. 迅速重启其中两台应用, 并负责提供服务. 第三台机器用于保留现场, 进行后续排查.</li><li>登上机器, 执行下列操作, 确定出现问题的线程栈.</li></ul><pre><code>* 确定Java进程号 &lt;pid&gt;    ps -ef | grep &lt;app&gt; | grep -v grep* 确定耗费CPU资源的线程 &lt;pid_sub&gt;    ps -Lfp &lt;pid&gt;    ps -mp &lt;pid&gt; -o THREAD, tid, time    top -Hp &lt;pid&gt;    * 将线程号转变为十六进制(因为jstack中以十六进制确定线程ID)    printf &quot;%x\n&quot; &lt;pid_sub&gt;    --- 例如输出 54ee* 在Java进程的jstack信息中确定 0x54ee 的位置    jstack &lt;pid&gt; | grep 54ee     --- 例如输出 &quot;http-bio-7001-exec-4&quot; #59 daemon prio=5 os_prio=0 tid=0x00002aaac2e5c000 nid=0x966 runnable [0x000000004434e000]...    --- 下面就是具体线程栈信息</code></pre><ul><li>通过问题线程栈确定业务逻辑位置, 最终定位到函数级别, 由此确定问题: 在一个特殊SQL文本的解析中, 存在indexOf返回-1, 并导致死循环的代码段, 细节不表.</li><li>教训: 代码测试一定要完善, 覆盖所有边界情况.</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;早上遭遇一起”线上 Java Web 占用 100%CPU”的紧急事件, 将排查处理过程记录如下。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;仅有的三台机器同时报警, 初步估计是个普遍性问题. 迅速重启其中两台应用, 并负责提供服务. 第三台机器用于保留现场, 进行后续排查.&lt;/li&gt;
+&lt;</summary>
+      
+    
+    
+    
+    <category term="IT" scheme="https://www.slackideas.com/categories/IT/"/>
+    
+    
+    <category term="java" scheme="https://www.slackideas.com/tags/java/"/>
+    
+    <category term="emerg" scheme="https://www.slackideas.com/tags/emerg/"/>
+    
+  </entry>
+  
+</feed>

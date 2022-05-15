@@ -1,0 +1,1125 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>A Troubleshooting Case On Java 100 Percent CPU Usage | Slack Ideas</title>
+  <meta name="keywords" content=" java , emerg ">
+  <meta name="description" content="A Troubleshooting Case On Java 100 Percent CPU Usage | Slack Ideas">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="关于我（About me）一名普通的程序员、代码工人 曾就职于阿里、华为、腾讯 热爱编程、但往往被发现在搬砖 喜欢折腾，爱玩机、玩软件，偏爱知识管理 常常发现身边的小美好">
+<meta property="og:type" content="website">
+<meta property="og:title" content="AboutMe">
+<meta property="og:url" content="https://www.slackideas.com/about/index.html">
+<meta property="og:site_name" content="Slack Ideas">
+<meta property="og:description" content="关于我（About me）一名普通的程序员、代码工人 曾就职于阿里、华为、腾讯 热爱编程、但往往被发现在搬砖 喜欢折腾，爱玩机、玩软件，偏爱知识管理 常常发现身边的小美好">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2021-12-19T08:51:44.000Z">
+<meta property="article:modified_time" content="2022-04-16T11:47:46.722Z">
+<meta property="article:author" content="caiski">
+<meta property="article:tag" content="Slack Ideas, Slack, Ideas">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="icon" href="/img/avatar.jpg">
+
+<link href="/css/style.css?v=1.1.0" rel="stylesheet">
+
+<link href="/css/hl_theme/atom-light.css?v=1.1.0" rel="stylesheet">
+
+<link href="//cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css" rel="stylesheet">
+
+<script src="//cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<script src="/js/titleTip.js?v=1.1.0" ></script>
+
+<script src="//cdn.jsdelivr.net/npm/highlightjs@9.16.2/highlight.pack.min.js"></script>
+<script>
+    hljs.initHighlightingOnLoad();
+</script>
+
+<script src="//cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js"></script>
+
+
+
+<script src="/js/iconfont.js?v=1.1.0" ></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JBY072ENWC"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+    
+        gtag('js', new Date());
+        gtag('config', 'G-JBY072ENWC');
+    </script>
+    
+  <!-- Global site tag - Google Adsense -->
+
+    <script data-ad-client="ca-pub-8169416866187994" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  
+<meta name="generator" content="Hexo 5.3.0"><link rel="alternate" href="/atom.xml" title="Slack Ideas" type="application/atom+xml">
+</head>
+<div style="display: none">
+  <input class="theme_disqus_on" value="false">
+  <input class="theme_preload_comment" value="">
+  <input class="theme_blog_path" value="">
+  <input id="theme_shortcut" value="true" />
+  <input id="theme_highlight_on" value="true" />
+  <input id="theme_code_copy" value="true" />
+</div>
+
+
+
+<body>
+<aside class="nav">
+    <div class="nav-left">
+        <a href="/"
+   class="avatar_target">
+    <img class="avatar"
+         src="/img/avatar.jpg"/>
+</a>
+<div class="author">
+    <span>caiski</span>
+</div>
+
+<div class="icon">
+    
+        
+            <a title="rss"
+               href="/atom.xml"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-rss"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+            <a title="github"
+               href="https://github.com/caiski"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-github"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+    
+        
+            <a title="twitter"
+               href="https://twitter.com/imskicai"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-twitter"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <a title="weibo"
+               href="https://weibo.com/skicai"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-weibo"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <a title="email"
+               href="mailto:hadoop90+blog@gmail.com"
+               target="_blank">
+                
+                    <svg class="iconfont-svg" aria-hidden="true">
+                        <use xlink:href="#icon-email"></use>
+                    </svg>
+                
+            </a>
+        
+    
+        
+    
+        
+    
+        
+    
+</div>
+
+
+
+    <a class="more-menus">更多菜单</a>
+
+
+<ul>
+    <li>
+        <div class="all active" data-rel="全部文章">全部文章
+            
+                <small>(55)</small>
+            
+        </div>
+    </li>
+    
+        
+            
+                <li>
+                    <div data-rel="IT">
+                        
+                        IT
+                        <small>(35)</small>
+                        
+                    </div>
+                    
+                </li>
+            
+        
+    
+        
+            
+                <li>
+                    <div data-rel="Other">
+                        
+                        Other
+                        <small>(19)</small>
+                        
+                    </div>
+                    
+                </li>
+            
+        
+    
+</ul>
+<div class="left-bottom">
+    <div class="menus">
+        
+            
+            
+                <a class="dynamic-menu "
+                   target="_self"
+                   
+                   href="/pmp-correcting-book">PMP</a>
+        
+            
+                <a class="dynamic-menu "
+                   target="_blank"
+                        
+                   href="https://www.slackideas.com/PostgresWorld">PG世界</a>
+        
+    </div>
+    <div>
+        
+            <a class="about  hasFriend  site_url"
+               
+               href="/about">关于</a>
+        
+        <a style="width: 50%"
+                
+                                           class="friends">友链</a>
+        
+    </div>
+</div>
+<input type="hidden" id="yelog_site_posts_number" value="55">
+<input type="hidden" id="yelog_site_word_count" value="41.7k">
+<div style="display: none">
+    <span id="busuanzi_value_site_uv"></span>
+    <span id="busuanzi_value_site_pv"></span>
+</div>
+
+    </div>
+    <div class="nav-right">
+        <div class="friends-area">
+    <div class="friends-title">
+        友情链接
+        <i class="iconfont icon-left"></i>
+    </div>
+    <div class="friends-content">
+        <ul>
+            
+        </ul>
+    </div>
+</div>
+        <div class="title-list">
+    <div class="right-top">
+        <div id="default-panel">
+            <i class="iconfont icon-search" data-title="搜索 快捷键 i"></i>
+            <div class="right-title">全部文章</div>
+            <i class="iconfont icon-file-tree" data-title="切换到大纲视图 快捷键 w"></i>
+        </div>
+        <div id="search-panel">
+            <i class="iconfont icon-left" data-title="返回"></i>
+            <input id="local-search-input" autocomplete="off"/>
+            <label class="border-line" for="input"></label>
+            <i class="iconfont icon-case-sensitive" data-title="大小写敏感"></i>
+            <i class="iconfont icon-tag" data-title="标签"></i>
+        </div>
+        <div id="outline-panel" style="display: none">
+            <div class="right-title">大纲</div>
+            <i class="iconfont icon-list" data-title="切换到文章列表"></i>
+        </div>
+    </div>
+
+    <div class="tags-list">
+    <input id="tag-search" />
+    <div class="tag-wrapper">
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>alfred</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>algorithm</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>blockchain</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>cpp</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>design pattern</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>emerg</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>golang</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>iptables</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>java</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>linux</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>mac</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>mysql</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>photography</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>postgresql</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>python</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>regex</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>rpc</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>shell</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>ssh</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>tex</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>thoughts</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>trial</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>tricks</a>
+            </li>
+        
+    </div>
+
+</div>
+
+    
+    <nav id="title-list-nav">
+        
+        <a  class="全部文章 Other "
+           href="/2021/10/10/Li-Assisted-Driving-in-Long-Distance-Road-Trip/"
+           data-tag="thoughts"
+           data-author="" >
+            <span class="post-title" title="Li Assisted Driving in Long Distance Road Trip">Li Assisted Driving in Long Distance Road Trip</span>
+            <span class="post-date" title="2021-10-10 11:01:05">2021/10/10</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2021/10/10/Li-assisted-driving-in-long-distance-road-trip/"
+           data-tag="thoughts"
+           data-author="" >
+            <span class="post-title" title="Li Assisted Driving in Long Distance Road Trip">Li Assisted Driving in Long Distance Road Trip</span>
+            <span class="post-date" title="2021-10-10 11:01:05">2021/10/10</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2021/08/22/Data-Type-Mappings-Between-Golang-And-PostgreSQL/"
+           data-tag="golang,postgresql"
+           data-author="" >
+            <span class="post-title" title="Data Type Mappings Between Golang And PostgreSQL">Data Type Mappings Between Golang And PostgreSQL</span>
+            <span class="post-date" title="2021-08-22 15:16:56">2021/08/22</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2021/07/18/A-Glance-Through-the-Window-of-Office-Two-Pictures/"
+           data-tag="photography"
+           data-author="" >
+            <span class="post-title" title="A Glance Through the Window of Office (Two Pictures)">A Glance Through the Window of Office (Two Pictures)</span>
+            <span class="post-date" title="2021-07-18 13:16:42">2021/07/18</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2021/07/17/Alfred-New-User-Notes-Part-I/"
+           data-tag="mac,alfred"
+           data-author="" >
+            <span class="post-title" title="Alfred New User Notes - Part I">Alfred New User Notes - Part I</span>
+            <span class="post-date" title="2021-07-17 20:14:17">2021/07/17</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2021/07/03/Grpc-Tutorial-Step-By-Step/"
+           data-tag="golang,rpc"
+           data-author="" >
+            <span class="post-title" title="Grpc Tutorial Step By Step">Grpc Tutorial Step By Step</span>
+            <span class="post-date" title="2021-07-03 23:09:23">2021/07/03</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2021/07/03/grpc-tutorial-step-by-step/"
+           data-tag="golang,rpc"
+           data-author="" >
+            <span class="post-title" title="Grpc Tutorial Step By Step">Grpc Tutorial Step By Step</span>
+            <span class="post-date" title="2021-07-03 23:09:23">2021/07/03</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2020/12/27/Build-MySQL-5-7-30-With-Source-Code-On-Mac-Catalina/"
+           data-tag="mysql,cpp"
+           data-author="" >
+            <span class="post-title" title="Build MySQL_5.7.30 With Source Code On Mac Catalina">Build MySQL_5.7.30 With Source Code On Mac Catalina</span>
+            <span class="post-date" title="2020-12-27 22:25:00">2020/12/27</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2020/12/27/Prepare-C-Cpp-Development-With-VSCode-On-Mac-Windows/"
+           data-tag="mac"
+           data-author="" >
+            <span class="post-title" title="Prepare C/Cpp Development With VSCode On Mac/Windows">Prepare C/Cpp Development With VSCode On Mac/Windows</span>
+            <span class="post-date" title="2020-12-27 14:19:00">2020/12/27</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2020/12/06/Dealing-With-A-MySQL-Deadlock-Problem-Caused-By-Concurrent-DML/"
+           data-tag="mysql"
+           data-author="" >
+            <span class="post-title" title="Dealing With A MySQL Deadlock Problem Caused By Concurrent DML">Dealing With A MySQL Deadlock Problem Caused By Concurrent DML</span>
+            <span class="post-date" title="2020-12-06 23:43:00">2020/12/06</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2019/12/21/The-Sequence-Of-Multi-matches-In-Regex-Expression/"
+           data-tag="java,emerg,regex"
+           data-author="" >
+            <span class="post-title" title="The Sequence Of Multi-matches In Regex Expression">The Sequence Of Multi-matches In Regex Expression</span>
+            <span class="post-date" title="2019-12-21 19:11:55">2019/12/21</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2019/11/24/The-Brief-Introduction-Of-JVM-G1/"
+           data-tag="java"
+           data-author="" >
+            <span class="post-title" title="The Brief Introduction Of JVM G1">The Brief Introduction Of JVM G1</span>
+            <span class="post-date" title="2019-11-24 21:24:56">2019/11/24</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2018/05/19/Java-Performance-Extreme-Programming/"
+           data-tag="java,tricks"
+           data-author="" >
+            <span class="post-title" title="Java Performance Extreme Programming">Java Performance Extreme Programming</span>
+            <span class="post-date" title="2018-05-19 20:22:04">2018/05/19</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2018/03/02/A-Troubleshooting-Case-On-Mixed-Logging-Frameworks-In-Java-Maven-Projects/"
+           data-tag="java"
+           data-author="" >
+            <span class="post-title" title="A Troubleshooting Case On Mixed Logging Frameworks In Java Maven Projects">A Troubleshooting Case On Mixed Logging Frameworks In Java Maven Projects</span>
+            <span class="post-date" title="2018-03-02 20:23:24">2018/03/02</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2018/02/23/Recommendation-For-Two-Screenshot-Software-On-Mac/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="Recommendation For Two Screenshot Software On Mac">Recommendation For Two Screenshot Software On Mac</span>
+            <span class="post-date" title="2018-02-23 20:58:52">2018/02/23</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2018/01/23/Blockchain-Notes-Part-2/"
+           data-tag="blockchain"
+           data-author="" >
+            <span class="post-title" title="Blockchain Notes: Part 2">Blockchain Notes: Part 2</span>
+            <span class="post-date" title="2018-01-23 21:24:47">2018/01/23</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2018/01/22/Blockchain-Notes-Part-1/"
+           data-tag="blockchain"
+           data-author="" >
+            <span class="post-title" title="Blockchain Notes: Part 1">Blockchain Notes: Part 1</span>
+            <span class="post-date" title="2018-01-22 21:23:19">2018/01/22</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2018/01/21/Blockchain-Notes-Origin/"
+           data-tag="blockchain"
+           data-author="" >
+            <span class="post-title" title="Blockchain Notes: Origin">Blockchain Notes: Origin</span>
+            <span class="post-date" title="2018-01-21 21:21:24">2018/01/21</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2017/12/19/Collect-1688-Product-Information-Using-Scrapy-And-Lazy-Loading/"
+           data-tag="python"
+           data-author="" >
+            <span class="post-title" title="Collect 1688 Product Information Using Scrapy And Lazy Loading">Collect 1688 Product Information Using Scrapy And Lazy Loading</span>
+            <span class="post-date" title="2017-12-19 21:32:16">2017/12/19</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2017/08/10/A-Troubleshooting-Case-On-Java-100-Percent-CPU-Usage/"
+           data-tag="java,emerg"
+           data-author="" >
+            <span class="post-title" title="A Troubleshooting Case On Java 100 Percent CPU Usage">A Troubleshooting Case On Java 100 Percent CPU Usage</span>
+            <span class="post-date" title="2017-08-10 12:14:17">2017/08/10</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2017/07/31/Oolong-Caused-By-The-Annotation-Lazy-And-Schedule/"
+           data-tag="java,emerg"
+           data-author="" >
+            <span class="post-title" title="Oolong Caused By The Annotation Lazy And Schedule">Oolong Caused By The Annotation Lazy And Schedule</span>
+            <span class="post-date" title="2017-07-31 23:49:12">2017/07/31</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2017/07/01/Changes-and-Expectations/"
+           data-tag="thoughts"
+           data-author="" >
+            <span class="post-title" title="Changes and Expectations">Changes and Expectations</span>
+            <span class="post-date" title="2017-07-01 10:52:17">2017/07/01</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2017/03/05/Reactor-And-Proactor/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="Reactor And Proactor">Reactor And Proactor</span>
+            <span class="post-date" title="2017-03-05 18:35:48">2017/03/05</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2017/01/07/BORDER-Role-Analysis/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="BORDER: Role Analysis">BORDER: Role Analysis</span>
+            <span class="post-date" title="2017-01-07 18:14:17">2017/01/07</span>
+        </a>
+        
+        <a  class="全部文章 "
+           href="/2017/01/02/Scrapy/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="Scrapy">Scrapy</span>
+            <span class="post-date" title="2017-01-02 20:16:10">2017/01/02</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2016/12/30/Blackout-And-Programmers-From-Despair-To-Concentration/"
+           data-tag="thoughts"
+           data-author="" >
+            <span class="post-title" title="Blackout And Programmers, From Despair To Concentration">Blackout And Programmers, From Despair To Concentration</span>
+            <span class="post-date" title="2016-12-30 18:14:17">2016/12/30</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2016/12/24/TEAM-Keishicho-Tokubetsu-Sosa-Honbu/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="TEAM - Keishichô Tokubetsu Sôsa Honbu">TEAM - Keishichô Tokubetsu Sôsa Honbu</span>
+            <span class="post-date" title="2016-12-24 20:23:17">2016/12/24</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2016/11/16/Thanksgiving-In-World-of-Warcraft/"
+           data-tag="thoughts"
+           data-author="" >
+            <span class="post-title" title="Thanksgiving In World of Warcraft">Thanksgiving In World of Warcraft</span>
+            <span class="post-date" title="2016-11-16 04:27:06">2016/11/16</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2016/11/02/Ostrich-Syndrome/"
+           data-tag="thoughts"
+           data-author="" >
+            <span class="post-title" title="Ostrich Syndrome">Ostrich Syndrome</span>
+            <span class="post-date" title="2016-11-02 01:40:59">2016/11/02</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2016/10/20/A-Lovely-Sunday-Without-Procrastination/"
+           data-tag="thoughts"
+           data-author="" >
+            <span class="post-title" title="A Lovely Sunday Without Procrastination">A Lovely Sunday Without Procrastination</span>
+            <span class="post-date" title="2016-10-20 02:11:22">2016/10/20</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2015/12/06/Flood-Fill-Algorithm/"
+           data-tag="algorithm"
+           data-author="" >
+            <span class="post-title" title="Flood Fill Algorithm">Flood Fill Algorithm</span>
+            <span class="post-date" title="2015-12-06 18:14:17">2015/12/06</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2015/11/28/An-Introduction-To-iptables/"
+           data-tag="linux,iptables"
+           data-author="" >
+            <span class="post-title" title="An Introduction To iptables">An Introduction To iptables</span>
+            <span class="post-date" title="2015-11-28 18:14:17">2015/11/28</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2015/11/15/Some-Confusion-And-Thoughts/"
+           data-tag="thoughts"
+           data-author="" >
+            <span class="post-title" title="Some Confusion And Thoughts">Some Confusion And Thoughts</span>
+            <span class="post-date" title="2015-11-15 18:14:17">2015/11/15</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2015/09/29/The-SSH-Protocol/"
+           data-tag="ssh"
+           data-author="" >
+            <span class="post-title" title="The SSH Protocol">The SSH Protocol</span>
+            <span class="post-date" title="2015-09-29 18:14:17">2015/09/29</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2015/08/19/Pseudo-Devices/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="Pseudo Devices">Pseudo Devices</span>
+            <span class="post-date" title="2015-08-19 21:29:33">2015/08/19</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2015/07/25/Adaptance/"
+           data-tag="thoughts"
+           data-author="" >
+            <span class="post-title" title="Adaptance">Adaptance</span>
+            <span class="post-date" title="2015-07-25 18:14:17">2015/07/25</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2015/06/11/Trial-Of-Bandwagon/"
+           data-tag="trial"
+           data-author="" >
+            <span class="post-title" title="Trial Of Bandwagon">Trial Of Bandwagon</span>
+            <span class="post-date" title="2015-06-11 18:14:17">2015/06/11</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2015/04/05/Why-I-Dump-Books-Like-They-Were-Not-Mine/"
+           data-tag="thoughts"
+           data-author="" >
+            <span class="post-title" title="Why I Dump Books Like They Were Not Mine">Why I Dump Books Like They Were Not Mine</span>
+            <span class="post-date" title="2015-04-05 18:14:17">2015/04/05</span>
+        </a>
+        
+        <a  class="全部文章 Other "
+           href="/2015/04/01/Serious-Writing-Benefits-us/"
+           data-tag="thoughts"
+           data-author="" >
+            <span class="post-title" title="Serious Writing Benefits us">Serious Writing Benefits us</span>
+            <span class="post-date" title="2015-04-01 18:14:17">2015/04/01</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2014/12/26/PyPI-Module-ipgeo/"
+           data-tag="python"
+           data-author="" >
+            <span class="post-title" title="PyPI Module: ipgeo">PyPI Module: ipgeo</span>
+            <span class="post-date" title="2014-12-26 18:14:17">2014/12/26</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2014/09/11/Longest-Common-Substring/"
+           data-tag="algorithm"
+           data-author="" >
+            <span class="post-title" title="Longest Common Substring">Longest Common Substring</span>
+            <span class="post-date" title="2014-09-11 18:14:17">2014/09/11</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2014/09/04/How-To-Destroy-Singleton/"
+           data-tag="java,design pattern"
+           data-author="" >
+            <span class="post-title" title="How To Destroy Singleton">How To Destroy Singleton</span>
+            <span class="post-date" title="2014-09-04 18:14:17">2014/09/04</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2014/09/03/Pattern-Search-Algorithm-KMP/"
+           data-tag="algorithm"
+           data-author="" >
+            <span class="post-title" title="Pattern Search Algorithm - KMP">Pattern Search Algorithm - KMP</span>
+            <span class="post-date" title="2014-09-03 18:14:17">2014/09/03</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2014/07/21/How-Does-Namenode-Find-The-Nearest-Datanode/"
+           data-tag="algorithm"
+           data-author="" >
+            <span class="post-title" title="How Does Namenode Find The Nearest Datanode">How Does Namenode Find The Nearest Datanode</span>
+            <span class="post-date" title="2014-07-21 18:14:17">2014/07/21</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2014/07/19/Pointers-And-References/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="Pointers And References">Pointers And References</span>
+            <span class="post-date" title="2014-07-19 18:14:17">2014/07/19</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2014/07/14/Decompile-A-Java-Class-File/"
+           data-tag="java"
+           data-author="" >
+            <span class="post-title" title="Decompile A Java Class File">Decompile A Java Class File</span>
+            <span class="post-date" title="2014-07-14 18:14:17">2014/07/14</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2013/09/14/My-Implementation-Of-Apriori-Algorithm/"
+           data-tag="algorithm"
+           data-author="" >
+            <span class="post-title" title="My Implementation Of Apriori Algorithm">My Implementation Of Apriori Algorithm</span>
+            <span class="post-date" title="2013-09-14 18:14:17">2013/09/14</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2012/09/20/First-Time-Using-CTex/"
+           data-tag="tex"
+           data-author="" >
+            <span class="post-title" title="First Time Using CTex">First Time Using CTex</span>
+            <span class="post-date" title="2012-09-20 12:14:17">2012/09/20</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2012/07/10/Execute-SHELL-Scripts-On-Bunch-Of-Nodes-In-Batch/"
+           data-tag="shell"
+           data-author="" >
+            <span class="post-title" title="Execute SHELL Scripts On Bunch Of Nodes In Batch">Execute SHELL Scripts On Bunch Of Nodes In Batch</span>
+            <span class="post-date" title="2012-07-10 18:14:17">2012/07/10</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2010/12/04/Creation-Input-Output-Of-A-Binary-Tree/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="Creation, Input, Output Of A Binary Tree">Creation, Input, Output Of A Binary Tree</span>
+            <span class="post-date" title="2010-12-04 12:14:17">2010/12/04</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2010/11/19/Bracket-Matching-Problem-With-Stack-Structure/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="Bracket Matching Problem With Stack Structure">Bracket Matching Problem With Stack Structure</span>
+            <span class="post-date" title="2010-11-19 18:14:17">2010/11/19</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2010/11/17/A-Simple-Guess-Number-Game/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="A Simple Guess Number Game">A Simple Guess Number Game</span>
+            <span class="post-date" title="2010-11-17 06:14:17">2010/11/17</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2010/11/13/Play-MP3-File-With-mciSendString/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="Play MP3 File With mciSendString">Play MP3 File With mciSendString</span>
+            <span class="post-date" title="2010-11-13 14:14:17">2010/11/13</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2010/11/13/Usage-With-ListBox-CheckBox-Timer/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="Usage With ListBox, CheckBox, Timer">Usage With ListBox, CheckBox, Timer</span>
+            <span class="post-date" title="2010-11-13 06:14:17">2010/11/13</span>
+        </a>
+        
+        <a  class="全部文章 IT "
+           href="/2010/11/11/Toy-With-ComboBox/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="Toy With ComboBox">Toy With ComboBox</span>
+            <span class="post-date" title="2010-11-11 05:51:19">2010/11/11</span>
+        </a>
+        
+        <div id="no-item-tips">
+
+        </div>
+    </nav>
+    <div id="outline-list">
+    </div>
+</div>
+
+    </div>
+    <div class="hide-list">
+        <div class="semicircle" data-title="切换全屏 快捷键 s">
+            <div class="brackets first"><</div>
+            <div class="brackets">&gt;</div>
+        </div>
+    </div>
+</aside>
+<div id="post">
+    <div class="pjax">
+        <article id="post-A-Troubleshooting-Case-On-Java-100-Percent-CPU-Usage" class="article article-type-post" itemscope itemprop="blogPost">
+    
+        <h1 class="article-title">A Troubleshooting Case On Java 100 Percent CPU Usage</h1>
+    
+    <div class="article-meta">
+        
+        
+        
+        <span class="book">
+            <i class="iconfont icon-category"></i>
+            
+            
+            <a  data-rel="IT">IT</a>
+            
+        </span>
+        
+        
+        <span class="tag">
+            <i class="iconfont icon-tag"></i>
+            
+            <a class="color5">java</a>
+            
+            <a class="color1">emerg</a>
+            
+        </span>
+        
+    </div>
+    <div class="article-meta">
+        
+            发布时间 : <time class="date" title='最后更新: 2022-04-16 19:47:46'>2017-08-10 12:14</time>
+        
+    </div>
+    <div class="article-meta">
+        
+        <span>字数:328</span>
+        
+        
+        
+    </div>
+    
+    <div class="toc-ref">
+    
+        
+    
+<style>
+    .left-col .switch-btn,
+    .left-col .switch-area {
+        display: none;
+    }
+    .toc-level-3 i,
+    .toc-level-3 ol {
+        display: none !important;
+    }
+</style>
+</div>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>早上遭遇一起”线上 Java Web 占用 100%CPU”的紧急事件, 将排查处理过程记录如下。</p>
+<ul>
+<li>仅有的三台机器同时报警, 初步估计是个普遍性问题. 迅速重启其中两台应用, 并负责提供服务. 第三台机器用于保留现场, 进行后续排查.</li>
+<li>登上机器, 执行下列操作, 确定出现问题的线程栈.</li>
+</ul>
+<pre><code>* 确定Java进程号 &lt;pid&gt;
+    ps -ef | grep &lt;app&gt; | grep -v grep
+
+* 确定耗费CPU资源的线程 &lt;pid_sub&gt;
+    ps -Lfp &lt;pid&gt;
+    ps -mp &lt;pid&gt; -o THREAD, tid, time
+    top -Hp &lt;pid&gt;
+    
+* 将线程号转变为十六进制(因为jstack中以十六进制确定线程ID)
+    printf &quot;%x\n&quot; &lt;pid_sub&gt;
+    --- 例如输出 54ee
+
+* 在Java进程的jstack信息中确定 0x54ee 的位置
+    jstack &lt;pid&gt; | grep 54ee 
+    --- 例如输出 &quot;http-bio-7001-exec-4&quot; #59 daemon prio=5 os_prio=0 tid=0x00002aaac2e5c000 nid=0x966 runnable [0x000000004434e000]...
+    --- 下面就是具体线程栈信息
+</code></pre>
+<ul>
+<li>通过问题线程栈确定业务逻辑位置, 最终定位到函数级别, 由此确定问题: 在一个特殊SQL文本的解析中, 存在indexOf返回-1, 并导致死循环的代码段, 细节不表.</li>
+<li>教训: 代码测试一定要完善, 覆盖所有边界情况.</li>
+</ul>
+
+      
+       <hr><span style="font-style: italic;color: gray;"> 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 hadoop90+blog@gmail.com </span>
+    </div>
+</article>
+
+
+
+
+
+    <div id="comments">
+        <script src="https://giscus.app/client.js"
+                data-repo="caiski/caiski.github.io"
+                data-repo-id="R_kgDOGjbI6w"
+                data-category="Announcements"
+                data-category-id="DIC_kwDOGjbI684CAc9l"
+                data-mapping="title"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-theme="light"
+                data-lang="zh-CN"
+                crossorigin="anonymous"
+                async>
+        </script>
+</div>
+
+
+
+    
+
+
+
+
+    </div>
+    <div class="copyright">
+        <p class="footer-entry"><span class="miit">
+                <img src="/img/gov.png" title="中华人民共和国工业和信息化部">
+                <a target="_blank" rel="noopener" href="http://beian.miit.gov.cn/">浙ICP备2021017323号</a>
+        </span>
+    
+    ©2010-2022 Slackideas
+</p>
+
+  <div style="display: none;">
+    <script{{ pjax }} src="//s95.cnzz.com/z_stat.php?id={{ theme.cnzz_siteid }}&web_id={{ theme.cnzz_siteid }}"></script>
+  </div>
+
+<p class="footer-entry">Built with <a href="https://hexo.io/" target="_blank">Hexo</a> and <a href="https://github.com/yelog/hexo-theme-3-hexo" target="_blank">3-hexo</a> theme</p>
+
+    </div>
+    <div class="full-toc">
+        <button class="full" data-title="切换全屏 快捷键 s"><span class="min "></span></button>
+<a class="" id="rocket" ></a>
+
+    </div>
+</div>
+
+</body>
+<script src="/js/jquery.pjax.js?v=1.1.0" ></script>
+
+<script src="/js/script.js?v=1.1.0" ></script>
+<script>
+    var img_resize = 'default';
+    function initArticle() {
+        /*渲染对应的表格样式*/
+        
+            $("#post .pjax table").addClass("green_title");
+        
+
+        /*渲染打赏样式*/
+        
+
+        /*高亮代码块行号*/
+        
+
+        /*访问数量*/
+        
+
+        /*代码高亮，行号对齐*/
+        $('.pre-numbering').css('line-height',$('.has-numbering').css('line-height'));
+
+        
+        
+    }
+
+    /*打赏页面隐藏与展示*/
+    
+
+</script>
+
+<!--加入行号的高亮代码块样式-->
+
+<!--自定义样式设置-->
+<style>
+    
+    
+    .nav {
+        width: 542px;
+    }
+    .nav.fullscreen {
+        margin-left: -542px;
+    }
+    .nav-left {
+        width: 120px;
+    }
+    
+    
+    @media screen and (max-width: 1468px) {
+        .nav {
+            width: 492px;
+        }
+        .nav.fullscreen {
+            margin-left: -492px;
+        }
+        .nav-left {
+            width: 100px;
+        }
+    }
+    
+    
+    @media screen and (max-width: 1024px) {
+        .nav {
+            width: 492px;
+            margin-left: -492px
+        }
+        .nav.fullscreen {
+            margin-left: 0;
+        }
+    }
+    
+    @media screen and (max-width: 426px) {
+        .nav {
+            width: 100%;
+        }
+        .nav-left {
+            width: 100%;
+        }
+    }
+    
+    
+    .nav-right .title-list nav a .post-title, .nav-right .title-list #local-search-result a .post-title {
+        color: #383636;
+    }
+    
+    
+    .nav-right .title-list nav a .post-date, .nav-right .title-list #local-search-result a .post-date {
+        color: #5e5e5f;
+    }
+    
+    
+    .nav-right nav a.hover, #local-search-result a.hover{
+        background-color: #e2e0e0;
+    }
+    
+    
+
+    /*列表样式*/
+    
+
+    /* 背景图样式 */
+    
+    
+
+
+    /*引用块样式*/
+    
+
+    /*文章列表背景图*/
+    
+
+    
+</style>
+
+
+
+
+
+
+<div class="mobile-menus-out" >
+
+</div>
+<div class="mobile-menus">
+    
+    
+    
+    <a class="dynamic-menu " target="_self"   href="/pmp-correcting-book">PMP</a>
+    
+    
+    <a class="dynamic-menu " target="_blank"  href="https://www.slackideas.com/PostgresWorld">PG世界</a>
+    
+</div>
+
+
+</html>
