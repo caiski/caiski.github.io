@@ -1635,7 +1635,7 @@ Problem solved.\\
   <entry>
     <title>Grpc Tutorial Step By Step</title>
     <url>/2021/07/03/Grpc-Tutorial-Step-By-Step/</url>
-    <content><![CDATA[<h1 id="gRpc入门步骤详解"><a href="#gRpc入门步骤详解" class="headerlink" title="gRpc入门步骤详解"></a>gRpc入门步骤详解</h1><h2 id="1-安装Go-1-16、Python-3"><a href="#1-安装Go-1-16、Python-3" class="headerlink" title="1. 安装Go 1.16、Python 3"></a>1. 安装Go 1.16、Python 3</h2><pre><code>brew install go@1.16
+    <content><![CDATA[<h1 id="gRpc入门步骤详解"><a href="#gRpc入门步骤详解" class="headerlink" title="gRpc入门步骤详解"></a>gRpc入门步骤详解</h1><h2 id="1-安装Go-1-16、Python-3"><a href="#1-安装Go-1-16、Python-3" class="headerlink" title="1. 安装Go 1.16、Python 3"></a>1. 安装Go 1.16、Python 3</h2><pre><code class="shell">brew install go@1.16
 brew install python3
 </code></pre>
 <h2 id="2-环境变量和其他配置"><a href="#2-环境变量和其他配置" class="headerlink" title="2. 环境变量和其他配置"></a>2. 环境变量和其他配置</h2><pre><code class="shell"># pip mirror
