@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.slackideas.com/2022/07/01/Commonly-Used-Tools-Website-v2022/</loc>
+    
+    <lastmod>2022-07-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.slackideas.com/2021/07/03/Grpc-Tutorial-Step-By-Step/</loc>
     
     <lastmod>2022-06-12</lastmod>
@@ -410,7 +417,7 @@
 
   <url>
     <loc>https://www.slackideas.com/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -418,161 +425,168 @@
   
   <url>
     <loc>https://www.slackideas.com/tags/golang/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/photography/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/thoughts/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/java/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/emerg/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/mac/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/alfred/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/linux/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/iptables/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/blockchain/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/mysql/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/cpp/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/python/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/postgresql/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/shell/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/tex/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/algorithm/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/rpc/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/design-pattern/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/tricks/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/ssh/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/regex/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/tags/trial/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.slackideas.com/tags/tool/</loc>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -581,14 +595,14 @@
   
   <url>
     <loc>https://www.slackideas.com/categories/Other/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.slackideas.com/categories/IT/</loc>
-    <lastmod>2022-06-12</lastmod>
+    <lastmod>2022-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
